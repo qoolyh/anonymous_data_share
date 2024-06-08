@@ -1,0 +1,24 @@
+[2023-05-17 02:47:41] [INFO] =============================================================================
+[2023-05-17 02:47:41] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0]                   ; action:     el1.click()
+
+[2023-05-17 02:47:41] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'cn.ticktick.task:id/c6', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[459,825][522,888]', 'w': 63, 'y': 825, 'x': 459}
+[2023-05-17 02:47:49] [INFO] =============================================================================
+[2023-05-17 02:47:49] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0]      ; action:     el2.click()
+
+[2023-05-17 02:47:49] [INFO] candidate here is:{'idIndex': 0, 'text': u'\ue92b', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/wa', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-05-17 02:47:56] [INFO] water can not find matched widget, stop
+[2023-05-17 02:47:56] [INFO] water states betwen two versions can not matched.
+[2023-05-17 02:47:58] [INFO] ==========test case 0 is tried===========
+[2023-05-17 02:47:58] [INFO] isRepaired: isRepaired
+[2023-06-07 02:13:29] [INFO] =============================================================================
+[2023-06-07 02:13:29] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0]                   ; action:     el1.click()
+
+[2023-06-07 02:13:29] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'cn.ticktick.task:id/c6', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[459,825][522,888]', 'w': 63, 'y': 825, 'x': 459}
+[2023-06-07 02:13:41] [INFO] =============================================================================
+[2023-06-07 02:13:41] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0]      ; action:     el2.click()
+
+[2023-06-07 02:13:41] [INFO] candidate here is:{'idIndex': 0, 'text': u'\ue92b', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/wa', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-06-07 02:13:49] [INFO] water can not find matched widget, stop
+[2023-06-07 02:13:49] [INFO] water states betwen two versions can not matched.
+[2023-06-07 02:13:51] [INFO] ==========test case 0 is tried===========
+[2023-06-07 02:13:51] [INFO] isRepaired: isRepaired

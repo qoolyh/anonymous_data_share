@@ -1,0 +1,6 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('More options')++++++++++self.driver.find_element_by_accessibility_id("More options")
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Set Date")')++++++++++self.driver.find_element_by_id("com.forrestguice.suntimeswidget:id/title")
+================line: 27; test action5=====================
+----------    el3 = driver.find_elements_by_id('android:id/button2')[0]++++++++++self.driver.find_element_by_accessibility_id("Cancel")

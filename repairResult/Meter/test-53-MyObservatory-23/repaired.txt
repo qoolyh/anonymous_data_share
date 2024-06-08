@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_id('hko.MyObservatory_v1_0:id/weather_icon_1')[0]++++++++++driver.tap([(54,926)])

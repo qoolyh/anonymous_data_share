@@ -1,0 +1,10 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('More options')++++++++++self.driver.find_element_by_accessibility_id("More options")
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Settings")')++++++++++self.driver.find_element_by_id("com.simplemobiletools.calculator:id/title")
+================line: 27; test action5=====================
+----------    el3 = driver.find_elements_by_id('com.simplemobiletools.calculator:id/settings_customize_colors_label')[0]++++++++++self.driver.find_element_by_id("com.simplemobiletools.calculator:id/settings_customize_colors_label")
+================line: 31; test action7=====================
+----------    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Theme")')++++++++++self.driver.find_element_by_id("com.simplemobiletools.calculator:id/customization_theme_label")
+================line: 35; test action9=====================
+----------    el5 = driver.find_element_by_android_uiautomator('new UiSelector().text("Dark theme")')++++++++++self.driver.find_element_by_classname("android.widget.RadioButton")

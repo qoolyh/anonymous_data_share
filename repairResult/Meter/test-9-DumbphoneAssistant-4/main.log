@@ -1,0 +1,24 @@
+[2023-05-15 18:57:59] [INFO] =============================================================================
+[2023-05-15 18:57:59] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")'); action:     el1.click()
+; widget: {'y': 85.0, 'x': 349.0, 'w': 111, 'h': 37}
+[2023-05-15 18:57:59] [INFO] candidateThisTime: {'y': 162, 'x': 74, 'type': 'non-text', 'w': 274, 'h': 32}
+[2023-05-15 18:58:05] [INFO] ==========test case 0 is tried===========
+[2023-05-15 18:58:05] [INFO] isRepaired: have chance to repair
+[2023-06-06 06:39:38] [INFO] =============================================================================
+[2023-06-06 06:39:38] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")'); action:     el1.click()
+; widget: {'y': 85.0, 'x': 349.0, 'w': 111, 'h': 37}
+[2023-06-06 06:39:38] [INFO] candidateThisTime: {'y': 162, 'x': 74, 'type': 'non-text', 'w': 274, 'h': 32}
+[2023-06-06 06:39:45] [INFO] ==========test case 0 is tried===========
+[2023-06-06 06:39:45] [INFO] isRepaired: have chance to repair
+[2023-06-06 06:42:03] [INFO] =============================================================================
+[2023-06-06 06:42:03] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")'); action:     el1.click()
+; widget: {'y': 85.0, 'x': 349.0, 'w': 111, 'h': 37}
+[2023-06-06 06:42:03] [INFO] candidateThisTime: {'y': 162, 'x': 74, 'type': 'non-text', 'w': 274, 'h': 32}
+[2023-06-06 06:42:09] [INFO] ==========test case 0 is tried===========
+[2023-06-06 06:42:09] [INFO] isRepaired: have chance to repair
+[2023-06-06 06:44:24] [INFO] =============================================================================
+[2023-06-06 06:44:24] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")'); action:     el1.click()
+; widget: {'y': 85.0, 'x': 349.0, 'w': 111, 'h': 37}
+[2023-06-06 06:44:24] [INFO] candidateThisTime: {'y': 162, 'x': 74, 'type': 'non-text', 'w': 274, 'h': 32}
+[2023-06-06 06:44:30] [INFO] ==========test case 0 is tried===========
+[2023-06-06 06:44:30] [INFO] isRepaired: have chance to repair

@@ -1,0 +1,19 @@
+[2024-06-04 06:04:48] [INFO] =============================================================================
+[2024-06-04 06:04:48] [INFO] test handle:    el1 = driver.find_elements_by_id('com.forrestguice.suntimeswidget:id/action_location_add')[0]; action:     el1.click()
+
+[2024-06-04 06:04:48] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Location', 'instance': '2', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.forrestguice.suntimeswidget:id/action_location_add', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 54, 'enabled': 'true', 'bounds': '[367,30][431,84]', 'w': 64, 'y': 30, 'x': 367}
+[2024-06-04 06:04:55] [INFO] oldWidget:{'y': 353.0, 'x': 108.0, 'w': 367, 'h': 47}
+[2024-06-04 06:04:55] [INFO] =============================================================================
+[2024-06-04 06:04:55] [INFO] test handle:    el2 = driver.find_elements_by_id('com.forrestguice.suntimeswidget:id/appwidget_location_mode')[0]; action:     el2.click()
+
+[2024-06-04 06:04:55] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.forrestguice.suntimeswidget:id/appwidget_location_mode', 'password': 'false', 'class': 'android.widget.Spinner', 'scrollable': 'true', 'package': 'com.forrestguice.suntimeswidget', 'h': 44, 'enabled': 'true', 'bounds': '[24,655][516,699]', 'w': 492, 'y': 655, 'x': 24}
+[2024-06-04 06:05:03] [INFO] =============================================================================
+[2024-06-04 06:05:03] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("Current (last known)")'); action:     el3.click()
+
+[2024-06-04 06:05:03] [INFO] candidate here is:{'idIndex': 0, 'text': 'Current (last known)', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'android:id/text1', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 22, 'enabled': 'true', 'bounds': '[24,693][190,715]', 'w': 166, 'y': 693, 'x': 24}
+[2024-06-04 06:05:11] [INFO] =============================================================================
+[2024-06-04 06:05:11] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Update")'); action:     el4.click()
+
+[2024-06-04 06:05:11] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Cancel', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.forrestguice.suntimeswidget:id/dialog_button_cancel', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 63, 'enabled': 'true', 'bounds': '[0,582][63,645]', 'w': 63, 'y': 582, 'x': 0}
+[2024-06-04 06:05:18] [INFO] ==========test case 0 is tried===========
+[2024-06-04 06:05:18] [INFO] isRepaired: isRepaired

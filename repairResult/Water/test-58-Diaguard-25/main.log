@@ -1,0 +1,16 @@
+[2024-06-04 05:23:15] [INFO] =============================================================================
+[2024-06-04 05:23:15] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open Navigator'); action:     el1.click()
+
+[2024-06-04 05:23:15] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open Navigator', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 63, 'enabled': 'true', 'bounds': '[0,31][63,94]', 'w': 63, 'y': 31, 'x': 0}
+[2024-06-04 05:23:22] [INFO] =============================================================================
+[2024-06-04 05:23:22] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Export")'); action:     el2.click()
+
+[2024-06-04 05:23:22] [INFO] candidate here is:{'idIndex': 5, 'text': 'Export', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.faltenreich.diaguard:id/design_menu_item_text', 'password': 'false', 'class': 'android.widget.CheckedTextView', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 44, 'enabled': 'true', 'bounds': '[32,402][373,446]', 'w': 341, 'y': 402, 'x': 32}
+[2024-06-04 05:23:31] [INFO] =============================================================================
+[2024-06-04 05:23:31] [INFO] test handle:    el3 = driver.find_elements_by_id('com.faltenreich.diaguard:id/date_end_button')[0]; action:     el3.click()
+
+[2024-06-04 05:23:31] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Export history', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.faltenreich.diaguard:id/action_history', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 54, 'enabled': 'true', 'bounds': '[485,35][540,89]', 'w': 55, 'y': 35, 'x': 485}
+[2024-06-04 05:23:38] [INFO] water can not find matched widget, stop
+[2024-06-04 05:23:38] [INFO] water states betwen two versions can not matched.
+[2024-06-04 05:23:40] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:23:40] [INFO] isRepaired: isRepaired

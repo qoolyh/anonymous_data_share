@@ -1,0 +1,7 @@
+[2023-10-13 19:34:25] [INFO] =============================================================================
+[2023-10-13 19:34:25] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/touch_to_type_text')[0]; action:     el1.click()
+; widget: {'y': 168.0, 'x': 18.0, 'w': 382, 'h': 34}
+[2023-10-13 19:34:25] [INFO] candidateThisTime: {'y': 138, 'x': 118, 'type': 'non-text', 'w': 66, 'h': 30}
+[2023-10-13 19:34:32] [INFO] 初始状态前后状态无法匹配，请检查
+[2023-10-13 19:34:33] [INFO] ==========test case 0 is tried===========
+[2023-10-13 19:34:33] [INFO] isRepaired: isRepaired

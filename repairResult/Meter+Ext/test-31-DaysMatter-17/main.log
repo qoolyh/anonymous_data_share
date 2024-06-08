@@ -1,0 +1,10 @@
+[2023-08-02 18:53:04] [INFO] =============================================================================
+[2023-08-02 18:53:04] [INFO] test handle:    el0 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el0.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-08-02 18:53:04] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-08-02 18:53:17] [INFO] =============================================================================
+[2023-08-02 18:53:17] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Today in History")'); action:     el1.click()
+; widget: {'y': 404.0, 'x': 81.0, 'w': 128, 'h': 25}
+[2023-08-02 18:53:17] [INFO] candidateThisTime: {'y': 593, 'x': 79, 'type': 'non-text', 'w': 70, 'h': 22}
+[2023-08-02 18:53:27] [INFO] ==========test case 0 is tried===========
+[2023-08-02 18:53:27] [INFO] isRepaired: isRepaired

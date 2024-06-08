@@ -1,0 +1,6 @@
+[2024-06-04 05:52:07] [INFO] =============================================================================
+[2024-06-04 05:52:07] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[4]; action:     el1.click()
+
+[2024-06-04 05:52:07] [INFO] candidate here is:{'idIndex': 2, 'text': 'Find Location', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'org.quantumbadger.redreader:id/list_item_text', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.quantumbadger.redreader', 'h': 56, 'enabled': 'true', 'bounds': '[27,195][444,251]', 'w': 417, 'y': 195, 'x': 27}
+[2024-06-04 05:52:11] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:52:11] [INFO] isRepaired: have chance to repair

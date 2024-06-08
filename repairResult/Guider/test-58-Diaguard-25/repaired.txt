@@ -1,0 +1,6 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('Open Navigator')++++++++++self.driver.find_element_by_accessibility_id("Open Navigator")
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Export")')++++++++++self.driver.find_elements_by_id("com.faltenreich.diaguard:id/design_menu_item_text")[5]
+================line: 27; test action5=====================
+----------    el3 = driver.find_elements_by_id('com.faltenreich.diaguard:id/date_end_button')[0]++++++++++self.driver.find_element_by_id("com.faltenreich.diaguard:id/include_page_number_checkbox")

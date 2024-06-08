@@ -1,0 +1,24 @@
+[2023-05-17 18:45:07] [INFO] =============================================================================
+[2023-05-17 18:45:07] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Journal")'); action:     el1.click()
+
+[2023-05-17 18:45:07] [INFO] candidate here is:{'idIndex': 0, 'text': '0 of 150', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '24', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 24, 'resource-id': 'com.google.android.apps.fitness:id/weekly_heart_points_card_progress_text', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 29, 'enabled': 'true', 'bounds': '[36,732][186,761]', 'w': 150, 'y': 732, 'x': 36}
+[2023-05-17 18:45:12] [INFO] ==========test case 0 is tried===========
+[2023-05-17 18:45:12] [INFO] isRepaired: have chance to repair
+[2023-06-07 21:22:41] [INFO] 初始状态前后状态无法匹配，请检查
+[2023-06-07 21:22:43] [INFO] ==========test case 0 is tried===========
+[2023-06-07 21:22:43] [INFO] isRepaired: isRepaired
+[2023-06-07 21:23:47] [INFO] 初始状态前后状态无法匹配，请检查
+[2023-06-07 21:23:49] [INFO] ==========test case 0 is tried===========
+[2023-06-07 21:23:49] [INFO] isRepaired: isRepaired
+[2023-06-08 04:32:41] [INFO] =============================================================================
+[2023-06-08 04:32:41] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Journal")'); action:     el1.click()
+
+[2023-06-08 04:32:41] [INFO] candidate here is:{'idIndex': 0, 'text': '0 of 150', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '24', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 24, 'resource-id': 'com.google.android.apps.fitness:id/weekly_heart_points_card_progress_text', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 29, 'enabled': 'true', 'bounds': '[36,732][186,761]', 'w': 150, 'y': 732, 'x': 36}
+[2023-06-08 04:32:45] [INFO] ==========test case 0 is tried===========
+[2023-06-08 04:32:45] [INFO] isRepaired: have chance to repair
+[2023-06-08 04:34:34] [INFO] =============================================================================
+[2023-06-08 04:34:34] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Journal")'); action:     el1.click()
+
+[2023-06-08 04:34:34] [INFO] candidate here is:{'idIndex': 0, 'text': '0 of 150', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '24', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 24, 'resource-id': 'com.google.android.apps.fitness:id/weekly_heart_points_card_progress_text', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 29, 'enabled': 'true', 'bounds': '[36,732][186,761]', 'w': 150, 'y': 732, 'x': 36}
+[2023-06-08 04:34:38] [INFO] ==========test case 0 is tried===========
+[2023-06-08 04:34:38] [INFO] isRepaired: have chance to repair

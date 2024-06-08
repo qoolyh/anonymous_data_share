@@ -1,0 +1,30 @@
+[2023-05-15 18:33:42] [INFO] =============================================================================
+[2023-05-15 18:33:42] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+
+[2023-05-15 18:33:42] [INFO] candidate here is:{'textIndex': 0, 'text': 'Currency', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 32, 'enabled': 'true', 'bounds': '[18,42][110,74]', 'w': 92, 'y': 42, 'x': 18}
+[2023-05-15 18:33:53] [INFO] =============================================================================
+[2023-05-15 18:33:53] [INFO] test handle:    el2 = driver.find_elements_by_id('android:id/title')[6]; action:     el2.click()
+
+[2023-05-15 18:33:53] [INFO] candidate here is:{'textIndex': 0, 'text': 'Currency', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 32, 'enabled': 'true', 'bounds': '[18,42][110,74]', 'w': 92, 'y': 42, 'x': 18}
+[2023-05-15 18:34:02] [INFO] ==========test case 0 is tried===========
+[2023-05-15 18:34:02] [INFO] isRepaired: isRepaired
+[2023-06-05 20:36:00] [INFO] =============================================================================
+[2023-06-05 20:36:00] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+
+[2023-06-05 20:36:00] [INFO] candidate here is:{'textIndex': 0, 'text': 'Currency', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 32, 'enabled': 'true', 'bounds': '[18,42][110,74]', 'w': 92, 'y': 42, 'x': 18}
+[2023-06-05 20:36:11] [INFO] =============================================================================
+[2023-06-05 20:36:11] [INFO] test handle:    el2 = driver.find_elements_by_id('android:id/title')[6]; action:     el2.click()
+
+[2023-06-05 20:36:11] [INFO] candidate here is:{'textIndex': 0, 'text': 'Currency', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 32, 'enabled': 'true', 'bounds': '[18,42][110,74]', 'w': 92, 'y': 42, 'x': 18}
+[2023-06-05 20:36:20] [INFO] ==========test case 0 is tried===========
+[2023-06-05 20:36:20] [INFO] isRepaired: isRepaired
+[2023-06-05 20:37:38] [INFO] =============================================================================
+[2023-06-05 20:37:38] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+
+[2023-06-05 20:37:38] [INFO] candidate here is:{'textIndex': 0, 'text': 'Currency', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 32, 'enabled': 'true', 'bounds': '[18,42][110,74]', 'w': 92, 'y': 42, 'x': 18}
+[2023-06-05 20:37:49] [INFO] =============================================================================
+[2023-06-05 20:37:49] [INFO] test handle:    el2 = driver.find_elements_by_id('android:id/title')[6]; action:     el2.click()
+
+[2023-06-05 20:37:49] [INFO] candidate here is:{'textIndex': 0, 'text': 'Currency', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 32, 'enabled': 'true', 'bounds': '[18,42][110,74]', 'w': 92, 'y': 42, 'x': 18}
+[2023-06-05 20:37:58] [INFO] ==========test case 0 is tried===========
+[2023-06-05 20:37:58] [INFO] isRepaired: isRepaired

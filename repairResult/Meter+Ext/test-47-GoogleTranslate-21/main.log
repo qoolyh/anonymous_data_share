@@ -1,0 +1,12 @@
+[2023-05-17 19:06:51] [INFO] =============================================================================
+[2023-05-17 19:06:52] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Original language: English.')  ; action:     el1.click()
+; widget: {'y': 90.0, 'x': 18.0, 'w': 83, 'h': 54}
+[2023-05-17 19:06:52] [INFO] candidateThisTime: {'y': 134, 'x': 118, 'type': 'non-text', 'w': 66, 'h': 30}
+[2023-05-17 19:07:00] [INFO] ==========test case 0 is tried===========
+[2023-05-17 19:07:00] [INFO] isRepaired: isRepaired
+[2023-06-07 18:55:40] [INFO] =============================================================================
+[2023-06-07 18:55:40] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Original language: English.')  ; action:     el1.click()
+; widget: {'y': 90.0, 'x': 18.0, 'w': 83, 'h': 54}
+[2023-06-07 18:55:40] [INFO] candidateThisTime: {'y': 134, 'x': 118, 'type': 'non-text', 'w': 66, 'h': 30}
+[2023-06-07 18:55:48] [INFO] ==========test case 0 is tried===========
+[2023-06-07 18:55:48] [INFO] isRepaired: isRepaired

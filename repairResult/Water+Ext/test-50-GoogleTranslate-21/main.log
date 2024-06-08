@@ -1,0 +1,12 @@
+[2023-10-14 05:32:31] [INFO] =============================================================================
+[2023-10-14 05:32:31] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/floating_input_card')[0]; action:     el1.click()
+
+[2023-10-14 05:32:31] [INFO] candidate here is:{'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.LinearLayout', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 960, 'enabled': 'true', 'bounds': '[0,0][540,960]', 'w': 540, 'y': 0, 'x': 0}
+[2023-10-14 05:32:36] [INFO] =============================================================================
+[2023-10-14 05:32:36] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[0]; action:     el2.click()
+
+[2023-10-14 05:32:36] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '2', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 54, 'enabled': 'true', 'bounds': '[490,35][535,89]', 'w': 45, 'y': 35, 'x': 490}
+[2023-10-14 05:32:40] [INFO] water can not find matched widget, stop
+[2023-10-14 05:32:40] [INFO] water states betwen two versions can not matched.
+[2023-10-14 05:32:42] [INFO] ==========test case 0 is tried===========
+[2023-10-14 05:32:42] [INFO] isRepaired: isRepaired

@@ -1,0 +1,10 @@
+[2023-10-16 06:00:24] [INFO] =============================================================================
+[2023-10-16 06:00:24] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[7]; action:     el1.click()
+
+[2023-10-16 06:00:24] [INFO] candidate here is:{'idIndex': 2, 'text': u'\uea74', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'cn.ticktick.task:id/w3', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 29, 'enabled': 'true', 'bounds': '[435,918][464,947]', 'w': 29, 'y': 918, 'x': 435}
+[2023-10-16 06:00:29] [INFO] =============================================================================
+[2023-10-16 06:00:29] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.TextView')[15]  ; action:     el2.click()
+
+[2023-10-16 06:00:29] [INFO] candidate here is:{'idIndex': 4, 'text': 'Sounds amp; Notifications', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '15', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 15, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[63,566][243,591]', 'w': 180, 'y': 566, 'x': 63}
+[2023-10-16 06:00:40] [INFO] ==========test case 0 is tried===========
+[2023-10-16 06:00:40] [INFO] isRepaired: isRepaired

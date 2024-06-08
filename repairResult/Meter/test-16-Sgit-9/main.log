@@ -1,0 +1,40 @@
+[2023-05-16 17:53:37] [INFO] =============================================================================
+[2023-05-16 17:53:37] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 476.0, 'w': 64, 'h': 54}
+[2023-05-16 17:53:37] [INFO] candidateThisTime: {'y': 53, 'x': 507, 'w': 1, 'h': 1}
+[2023-05-16 17:53:52] [INFO] =============================================================================
+[2023-05-16 17:53:52] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Private Keys")'); action:     el2.click()
+; widget: {'y': 204.0, 'x': 328.0, 'w': 185, 'h': 28}
+[2023-05-16 17:53:52] [INFO] candidateThisTime: {'y': 98, 'x': 390, 'type': 'non-text', 'w': 98, 'h': 25}
+[2023-05-16 17:53:58] [INFO] ==========test case 0 is tried===========
+[2023-05-16 17:53:58] [INFO] isRepaired: have chance to repair
+[2023-06-06 19:36:56] [INFO] =============================================================================
+[2023-06-06 19:36:56] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 476.0, 'w': 64, 'h': 54}
+[2023-06-06 19:36:56] [INFO] candidateThisTime: {'y': 53, 'x': 507, 'w': 1, 'h': 1}
+[2023-06-06 19:37:07] [INFO] =============================================================================
+[2023-06-06 19:37:07] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Private Keys")'); action:     el2.click()
+; widget: {'y': 204.0, 'x': 328.0, 'w': 185, 'h': 28}
+[2023-06-06 19:37:07] [INFO] candidateThisTime: {'y': 98, 'x': 390, 'type': 'non-text', 'w': 98, 'h': 25}
+[2023-06-06 19:37:13] [INFO] ==========test case 0 is tried===========
+[2023-06-06 19:37:13] [INFO] isRepaired: have chance to repair
+[2023-06-06 19:39:09] [INFO] =============================================================================
+[2023-06-06 19:39:09] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 476.0, 'w': 64, 'h': 54}
+[2023-06-06 19:39:09] [INFO] candidateThisTime: {'y': 53, 'x': 507, 'w': 1, 'h': 1}
+[2023-06-06 19:39:20] [INFO] =============================================================================
+[2023-06-06 19:39:20] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Private Keys")'); action:     el2.click()
+; widget: {'y': 204.0, 'x': 328.0, 'w': 185, 'h': 28}
+[2023-06-06 19:39:20] [INFO] candidateThisTime: {'y': 98, 'x': 390, 'type': 'non-text', 'w': 98, 'h': 25}
+[2023-06-06 19:39:26] [INFO] ==========test case 0 is tried===========
+[2023-06-06 19:39:26] [INFO] isRepaired: have chance to repair
+[2023-06-06 19:41:22] [INFO] =============================================================================
+[2023-06-06 19:41:22] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 476.0, 'w': 64, 'h': 54}
+[2023-06-06 19:41:22] [INFO] candidateThisTime: {'y': 53, 'x': 507, 'w': 1, 'h': 1}
+[2023-06-06 19:41:32] [INFO] =============================================================================
+[2023-06-06 19:41:32] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Private Keys")'); action:     el2.click()
+; widget: {'y': 204.0, 'x': 328.0, 'w': 185, 'h': 28}
+[2023-06-06 19:41:32] [INFO] candidateThisTime: {'y': 98, 'x': 390, 'type': 'non-text', 'w': 98, 'h': 25}
+[2023-06-06 19:41:40] [INFO] ==========test case 0 is tried===========
+[2023-06-06 19:41:40] [INFO] isRepaired: have chance to repair

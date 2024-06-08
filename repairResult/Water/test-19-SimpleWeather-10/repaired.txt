@@ -1,0 +1,4 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('Open')++++++++++self.driver.find_element_by_accessibility_id("Open")
+================line: 23; test action3=====================
+----------    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[7]++++++++++self.driver.find_elements_by_id("com.a5corp.weather:id/material_drawer_icon")[5]

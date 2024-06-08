@@ -1,0 +1,12 @@
+[2023-05-16 18:06:11] [INFO] =============================================================================
+[2023-05-16 18:06:11] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Search'); action:     el1.click()
+
+[2023-05-16 18:06:11] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'com.a5corp.weather:id/fab', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.a5corp.weather', 'h': 63, 'enabled': 'true', 'bounds': '[458,878][521,941]', 'w': 63, 'y': 878, 'x': 458}
+[2023-05-16 18:06:17] [INFO] ==========test case 0 is tried===========
+[2023-05-16 18:06:17] [INFO] isRepaired: isRepaired
+[2023-06-06 20:31:53] [INFO] =============================================================================
+[2023-06-06 20:31:53] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Search'); action:     el1.click()
+
+[2023-06-06 20:31:53] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'com.a5corp.weather:id/fab', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.a5corp.weather', 'h': 63, 'enabled': 'true', 'bounds': '[458,878][521,941]', 'w': 63, 'y': 878, 'x': 458}
+[2023-06-06 20:32:00] [INFO] ==========test case 0 is tried===========
+[2023-06-06 20:32:00] [INFO] isRepaired: isRepaired

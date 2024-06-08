@@ -1,0 +1,20 @@
+[2023-05-16 17:57:01] [INFO] =============================================================================
+[2023-05-16 17:57:01] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-05-16 17:57:01] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '2', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'me.sheimi.sgit', 'h': 54, 'enabled': 'true', 'bounds': '[476,27][540,81]', 'w': 64, 'y': 27, 'x': 476}
+[2023-05-16 17:57:08] [INFO] =============================================================================
+[2023-05-16 17:57:08] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Private Keys")'); action:     el2.click()
+
+[2023-05-16 17:57:08] [INFO] candidate here is:{'idIndex': 0, 'text': 'Import Repository', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'me.sheimi.sgit', 'h': 28, 'enabled': 'true', 'bounds': '[328,94][513,122]', 'w': 185, 'y': 94, 'x': 328}
+[2023-05-16 17:57:14] [INFO] ==========test case 0 is tried===========
+[2023-05-16 17:57:14] [INFO] isRepaired: isRepaired
+[2023-06-06 19:48:27] [INFO] =============================================================================
+[2023-06-06 19:48:27] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-06-06 19:48:27] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '2', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'me.sheimi.sgit', 'h': 54, 'enabled': 'true', 'bounds': '[476,27][540,81]', 'w': 64, 'y': 27, 'x': 476}
+[2023-06-06 19:48:35] [INFO] =============================================================================
+[2023-06-06 19:48:35] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Private Keys")'); action:     el2.click()
+
+[2023-06-06 19:48:35] [INFO] candidate here is:{'idIndex': 0, 'text': 'Import Repository', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'me.sheimi.sgit', 'h': 28, 'enabled': 'true', 'bounds': '[328,94][513,122]', 'w': 185, 'y': 94, 'x': 328}
+[2023-06-06 19:48:41] [INFO] ==========test case 0 is tried===========
+[2023-06-06 19:48:41] [INFO] isRepaired: isRepaired

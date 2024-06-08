@@ -1,0 +1,4 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_id('com.faltenreich.diaguard:id/fab_container')[0]++++++++++driver.tap([(494,907)])
+================line: 23; test action3=====================
+----------    el2 = driver.find_elements_by_id('com.faltenreich.diaguard:id/tag_input')[0]++++++++++driver.tap([(102,193)])

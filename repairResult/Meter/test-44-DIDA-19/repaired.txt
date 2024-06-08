@@ -1,0 +1,6 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ++++++++++driver.tap([(38,52)])
+================line: 23; test action3=====================
+----------    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ++++++++++driver.tap([(442,54)])
+================line: 27; test action5=====================
+----------    el3 = driver.find_elements_by_id('cn.ticktick.task:id/level_icon')[0]  ++++++++++driver.tap([(467,256)])

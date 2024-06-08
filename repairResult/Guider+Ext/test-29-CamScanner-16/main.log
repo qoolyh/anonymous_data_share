@@ -1,0 +1,20 @@
+[2023-05-16 19:38:43] [INFO] =============================================================================
+[2023-05-16 19:38:43] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+
+[2023-05-16 19:38:43] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open navigation drawer', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.intsig.camscanner', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-05-16 19:38:53] [INFO] =============================================================================
+[2023-05-16 19:38:53] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Settings")'); action:     el2.click()
+
+[2023-05-16 19:38:53] [INFO] candidate here is:{'idIndex': 7, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '12', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 12, 'resource-id': 'com.intsig.camscanner:id/txt_leftmenuitem_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.intsig.camscanner', 'h': 72, 'enabled': 'true', 'bounds': '[24,632][403,704]', 'w': 379, 'y': 632, 'x': 24}
+[2023-05-16 19:39:10] [INFO] oldWidget:{'y': 873.0, 'x': 27.0, 'w': 27, 'h': 27}
+[2023-05-16 19:39:10] [INFO] oldWidget:{'y': 873.0, 'x': 27.0, 'w': 27, 'h': 27}
+[2023-06-07 01:18:48] [INFO] =============================================================================
+[2023-06-07 01:18:48] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+
+[2023-06-07 01:18:48] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open navigation drawer', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.intsig.camscanner', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-06-07 01:18:58] [INFO] =============================================================================
+[2023-06-07 01:18:58] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Settings")'); action:     el2.click()
+
+[2023-06-07 01:18:58] [INFO] candidate here is:{'idIndex': 7, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '12', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 12, 'resource-id': 'com.intsig.camscanner:id/txt_leftmenuitem_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.intsig.camscanner', 'h': 72, 'enabled': 'true', 'bounds': '[24,632][403,704]', 'w': 379, 'y': 632, 'x': 24}
+[2023-06-07 01:19:16] [INFO] oldWidget:{'y': 873.0, 'x': 27.0, 'w': 27, 'h': 27}
+[2023-06-07 01:19:16] [INFO] oldWidget:{'y': 873.0, 'x': 27.0, 'w': 27, 'h': 27}

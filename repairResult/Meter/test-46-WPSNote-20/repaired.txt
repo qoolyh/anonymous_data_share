@@ -1,0 +1,6 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_class_name("android.widget.ImageView")[7]++++++++++driver.tap([(472,932)])
+================line: 23; test action3=====================
+----------    el2 = driver.find_elements_by_id('cn.wps.note:id/me_setting')[0]++++++++++driver.tap([(62,595)])
+================line: 27; test action5=====================
+----------    el3 = driver.find_elements_by_id('cn.wps.note:id/font_setting')[0]++++++++++driver.tap([(68,114)])

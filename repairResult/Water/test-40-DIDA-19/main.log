@@ -1,0 +1,36 @@
+[2023-05-17 02:53:41] [INFO] =============================================================================
+[2023-05-17 02:53:41] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+
+[2023-05-17 02:53:41] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'cn.ticktick.task:id/c6', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[459,825][522,888]', 'w': 63, 'y': 825, 'x': 459}
+[2023-05-17 02:53:49] [INFO] =============================================================================
+[2023-05-17 02:53:49] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ; action:     el2.click()
+
+[2023-05-17 02:53:49] [INFO] candidate here is:{'idIndex': 0, 'text': u'\ue92b', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/wa', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-05-17 02:53:56] [INFO] =============================================================================
+[2023-05-17 02:53:56] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ; action:     el3.click()
+
+[2023-05-17 02:53:56] [INFO] candidate here is:{'idIndex': 0, 'text': 'Inbox', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/au6', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[63,27][119,90]', 'w': 56, 'y': 27, 'x': 63}
+[2023-05-17 02:54:07] [INFO] =============================================================================
+[2023-05-17 02:54:07] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ; action:     el4.click()
+
+[2023-05-17 02:54:07] [INFO] candidate here is:{'idIndex': 0, 'text': 'Inbox', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/au6', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[63,27][119,90]', 'w': 56, 'y': 27, 'x': 63}
+[2023-05-17 02:54:16] [INFO] ==========test case 0 is tried===========
+[2023-05-17 02:54:16] [INFO] isRepaired: isRepaired
+[2023-06-07 03:29:26] [INFO] =============================================================================
+[2023-06-07 03:29:27] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+
+[2023-06-07 03:29:27] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'cn.ticktick.task:id/c6', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[459,825][522,888]', 'w': 63, 'y': 825, 'x': 459}
+[2023-06-07 03:29:36] [INFO] =============================================================================
+[2023-06-07 03:29:36] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ; action:     el2.click()
+
+[2023-06-07 03:29:36] [INFO] candidate here is:{'idIndex': 0, 'text': u'\ue92b', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/wa', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-06-07 03:29:44] [INFO] =============================================================================
+[2023-06-07 03:29:44] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ; action:     el3.click()
+
+[2023-06-07 03:29:44] [INFO] candidate here is:{'idIndex': 0, 'text': 'Inbox', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/au6', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[63,27][119,90]', 'w': 56, 'y': 27, 'x': 63}
+[2023-06-07 03:29:58] [INFO] =============================================================================
+[2023-06-07 03:29:58] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ; action:     el4.click()
+
+[2023-06-07 03:29:58] [INFO] candidate here is:{'idIndex': 0, 'text': 'Inbox', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/au6', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[63,27][119,90]', 'w': 56, 'y': 27, 'x': 63}
+[2023-06-07 03:30:07] [INFO] ==========test case 0 is tried===========
+[2023-06-07 03:30:07] [INFO] isRepaired: isRepaired

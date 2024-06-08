@@ -1,0 +1,6 @@
+[2024-06-04 05:55:21] [INFO] =============================================================================
+[2024-06-04 05:55:21] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[4]; action:     el1.click()
+; widget: {'y': 195.0, 'x': 27.0, 'w': 486, 'h': 56}
+[2024-06-04 05:55:21] [INFO] candidateThisTime: {'y': 214, 'x': 68, 'type': 'non-text', 'w': 80, 'h': 20}
+[2024-06-04 05:55:28] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:55:28] [INFO] isRepaired: have chance to repair

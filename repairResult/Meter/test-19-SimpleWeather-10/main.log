@@ -1,0 +1,10 @@
+[2023-10-15 07:50:20] [INFO] =============================================================================
+[2023-10-15 07:50:20] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-15 07:50:20] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-10-15 07:50:38] [INFO] =============================================================================
+[2023-10-15 07:50:38] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[7]; action:     el2.click()
+; widget: {'y': 485.0, 'x': 18.0, 'w': 63, 'h': 47}
+[2023-10-15 07:50:38] [INFO] candidateThisTime: {'y': 272, 'x': 16, 'type': 'non-text', 'w': 26, 'h': 19}
+[2023-10-15 07:50:46] [INFO] ==========test case 0 is tried===========
+[2023-10-15 07:50:46] [INFO] isRepaired: isRepaired

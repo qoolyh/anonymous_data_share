@@ -1,0 +1,14 @@
+[2023-05-17 03:11:09] [INFO] =============================================================================
+[2023-05-17 03:11:09] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+; widget: {'y': 327.0, 'x': 32.0, 'w': 94, 'h': 25}
+[2023-05-17 03:11:09] [INFO] candidateThisTime: {'y': 180, 'x': 30, 'type': 'non-text', 'w': 97, 'h': 22}
+[2023-05-17 03:11:30] [INFO] 初始状态前后状态无法匹配，请检查
+[2023-05-17 03:11:32] [INFO] ==========test case 0 is tried===========
+[2023-05-17 03:11:32] [INFO] isRepaired: isRepaired
+[2023-06-07 06:08:16] [INFO] =============================================================================
+[2023-06-07 06:08:16] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+; widget: {'y': 327.0, 'x': 32.0, 'w': 94, 'h': 25}
+[2023-06-07 06:08:16] [INFO] candidateThisTime: {'y': 180, 'x': 30, 'type': 'non-text', 'w': 97, 'h': 22}
+[2023-06-07 06:08:37] [INFO] 初始状态前后状态无法匹配，请检查
+[2023-06-07 06:08:39] [INFO] ==========test case 0 is tried===========
+[2023-06-07 06:08:39] [INFO] isRepaired: isRepaired

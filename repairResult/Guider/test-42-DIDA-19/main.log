@@ -1,0 +1,20 @@
+[2023-05-17 03:08:40] [INFO] =============================================================================
+[2023-05-17 03:08:40] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-05-17 03:08:40] [INFO] candidate here is:{'idIndex': 0, 'text': 'Daily record', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'cn.ticktick.task:id/b0z', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[32,176][126,201]', 'w': 94, 'y': 176, 'x': 32}
+[2023-05-17 03:08:48] [INFO] =============================================================================
+[2023-05-17 03:08:48] [INFO] test handle:    el2 = driver.find_element_by_accessibility_id('More options')  ; action:     el2.click()
+
+[2023-05-17 03:08:48] [INFO] candidate here is:{'NAF': 'true', 'text': '', 'resource-id': '', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-05-17 03:08:56] [INFO] ==========test case 0 is tried===========
+[2023-05-17 03:08:56] [INFO] isRepaired: have chance to repair
+[2023-06-07 06:01:01] [INFO] =============================================================================
+[2023-06-07 06:01:01] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-06-07 06:01:01] [INFO] candidate here is:{'idIndex': 0, 'text': 'Daily record', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'cn.ticktick.task:id/b0z', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[32,176][126,201]', 'w': 94, 'y': 176, 'x': 32}
+[2023-06-07 06:01:13] [INFO] =============================================================================
+[2023-06-07 06:01:13] [INFO] test handle:    el2 = driver.find_element_by_accessibility_id('More options')  ; action:     el2.click()
+
+[2023-06-07 06:01:13] [INFO] candidate here is:{'NAF': 'true', 'text': '', 'resource-id': '', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-06-07 06:01:20] [INFO] ==========test case 0 is tried===========
+[2023-06-07 06:01:20] [INFO] isRepaired: have chance to repair

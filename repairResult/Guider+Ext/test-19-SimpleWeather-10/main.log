@@ -1,0 +1,10 @@
+[2023-10-15 07:53:33] [INFO] =============================================================================
+[2023-10-15 07:53:33] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open'); action:     el1.click()
+
+[2023-10-15 07:53:33] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.a5corp.weather', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-10-15 07:53:41] [INFO] =============================================================================
+[2023-10-15 07:53:41] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[7]; action:     el2.click()
+
+[2023-10-15 07:53:41] [INFO] candidate here is:{'idIndex': 5, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'com.a5corp.weather:id/material_drawer_icon', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.a5corp.weather', 'h': 47, 'enabled': 'true', 'bounds': '[18,913][81,960]', 'w': 63, 'y': 913, 'x': 18}
+[2023-10-15 07:53:46] [INFO] ==========test case 0 is tried===========
+[2023-10-15 07:53:46] [INFO] isRepaired: have chance to repair

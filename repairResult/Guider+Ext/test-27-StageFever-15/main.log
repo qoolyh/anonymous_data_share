@@ -1,0 +1,20 @@
+[2023-05-16 19:13:45] [INFO] =============================================================================
+[2023-05-16 19:13:45] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-05-16 19:13:45] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Settings', 'instance': '5', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.fr3ts0n.stagefever:id/action_settings', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.fr3ts0n.stagefever', 'h': 54, 'enabled': 'true', 'bounds': '[414,0][477,54]', 'w': 63, 'y': 0, 'x': 414}
+[2023-05-16 19:14:06] [INFO] =============================================================================
+[2023-05-16 19:14:06] [INFO] test handle:    el2 = driver.find_elements_by_id('android:id/title')[0]; action:     el2.click()
+
+[2023-05-16 19:14:06] [INFO] candidate here is:{'idIndex': 0, 'text': 'Font size of notes [dp]', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.fr3ts0n.stagefever', 'h': 28, 'enabled': 'true', 'bounds': '[27,92][223,120]', 'w': 196, 'y': 92, 'x': 27}
+[2023-05-16 19:14:11] [INFO] ==========test case 0 is tried===========
+[2023-05-16 19:14:11] [INFO] isRepaired: have chance to repair
+[2023-06-07 01:01:37] [INFO] =============================================================================
+[2023-06-07 01:01:37] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-06-07 01:01:37] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Settings', 'instance': '5', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.fr3ts0n.stagefever:id/action_settings', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.fr3ts0n.stagefever', 'h': 54, 'enabled': 'true', 'bounds': '[414,0][477,54]', 'w': 63, 'y': 0, 'x': 414}
+[2023-06-07 01:02:05] [INFO] =============================================================================
+[2023-06-07 01:02:05] [INFO] test handle:    el2 = driver.find_elements_by_id('android:id/title')[0]; action:     el2.click()
+
+[2023-06-07 01:02:05] [INFO] candidate here is:{'idIndex': 0, 'text': 'Font size of notes [dp]', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.fr3ts0n.stagefever', 'h': 28, 'enabled': 'true', 'bounds': '[27,92][223,120]', 'w': 196, 'y': 92, 'x': 27}
+[2023-06-07 01:02:10] [INFO] ==========test case 0 is tried===========
+[2023-06-07 01:02:10] [INFO] isRepaired: have chance to repair

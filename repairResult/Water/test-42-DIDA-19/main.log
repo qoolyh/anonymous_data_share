@@ -1,0 +1,16 @@
+[2023-05-17 03:14:50] [INFO] =============================================================================
+[2023-05-17 03:14:50] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-05-17 03:14:50] [INFO] candidate here is:{'idIndex': 0, 'text': 'Daily record', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'cn.ticktick.task:id/b0z', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[32,176][126,201]', 'w': 94, 'y': 176, 'x': 32}
+[2023-05-17 03:14:57] [INFO] water can not find matched widget, stop
+[2023-05-17 03:14:57] [INFO] water states betwen two versions can not matched.
+[2023-05-17 03:14:59] [INFO] ==========test case 0 is tried===========
+[2023-05-17 03:14:59] [INFO] isRepaired: isRepaired
+[2023-06-07 06:14:08] [INFO] =============================================================================
+[2023-06-07 06:14:08] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-06-07 06:14:08] [INFO] candidate here is:{'idIndex': 0, 'text': 'Daily record', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'cn.ticktick.task:id/b0z', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[32,176][126,201]', 'w': 94, 'y': 176, 'x': 32}
+[2023-06-07 06:14:16] [INFO] water can not find matched widget, stop
+[2023-06-07 06:14:16] [INFO] water states betwen two versions can not matched.
+[2023-06-07 06:14:18] [INFO] ==========test case 0 is tried===========
+[2023-06-07 06:14:18] [INFO] isRepaired: isRepaired

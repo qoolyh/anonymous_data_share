@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('Original language: English.')  ++++++++++driver.tap([(151,149)])

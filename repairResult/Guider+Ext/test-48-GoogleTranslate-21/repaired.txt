@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/touch_to_type_text')[0]++++++++++self.driver.find_element_by_id("com.google.android.apps.translate:id/enter_text_label")

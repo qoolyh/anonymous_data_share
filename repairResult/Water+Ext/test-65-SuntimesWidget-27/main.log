@@ -1,0 +1,14 @@
+[2024-06-07 02:41:38] [INFO] =============================================================================
+[2024-06-07 02:41:38] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2024-06-07 02:41:38] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '2', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 54, 'enabled': 'true', 'bounds': '[495,30][540,84]', 'w': 45, 'y': 30, 'x': 495}
+[2024-06-07 02:41:46] [INFO] =============================================================================
+[2024-06-07 02:41:46] [INFO] test handle:    el2 = driver.find_elements_by_id('com.forrestguice.suntimeswidget:id/title')[7]; action:     el2.click()
+
+[2024-06-07 02:41:46] [INFO] candidate here is:{'idIndex': 7, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'com.forrestguice.suntimeswidget:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 25, 'enabled': 'true', 'bounds': '[370,422][518,447]', 'w': 148, 'y': 422, 'x': 370}
+[2024-06-07 02:41:54] [INFO] =============================================================================
+[2024-06-07 02:41:54] [INFO] test handle:    el3 = driver.find_elements_by_id('android:id/icon')[3]; action:     el3.click()
+
+[2024-06-07 02:41:54] [INFO] candidate here is:{'idIndex': 3, 'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'android:id/icon', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 36, 'enabled': 'true', 'bounds': '[27,198][63,234]', 'w': 36, 'y': 198, 'x': 27}
+[2024-06-07 02:42:01] [INFO] ==========test case 0 is tried===========
+[2024-06-07 02:42:01] [INFO] isRepaired: isRepaired

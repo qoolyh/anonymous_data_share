@@ -1,0 +1,8 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('More options')++++++++++self.driver.find_element_by_accessibility_id("More options")
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Set Alarm")')++++++++++self.driver.find_elements_by_id("com.forrestguice.suntimeswidget:id/title")[2]
+================line: 27; test action5=====================
+----------    el3 = driver.find_elements_by_id('com.forrestguice.suntimeswidget:id/appwidget_schedalarm_mode')[0]++++++++++self.driver.find_element_by_id("android:id/icon1")
+================line: 31; test action7=====================
+----------    el4 = driver.find_elements_by_class_name('android.widget.TextView')[2]++++++++++self.driver.find_elements_by_id("android:id/text1")[2]

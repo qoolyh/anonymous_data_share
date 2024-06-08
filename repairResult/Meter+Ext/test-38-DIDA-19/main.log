@@ -1,0 +1,56 @@
+[2023-05-17 01:53:24] [INFO] =============================================================================
+[2023-05-17 01:53:24] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-05-17 01:53:24] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-05-17 01:53:35] [INFO] =============================================================================
+[2023-05-17 01:53:35] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/photo')[0]; action:     el2.click()
+; widget: {'y': 46.0, 'x': 18.0, 'w': 72, 'h': 72}
+[2023-05-17 01:53:35] [INFO] candidateThisTime: {'y': 65, 'x': 32, 'type': 'non-text', 'w': 44, 'h': 51}
+[2023-05-17 01:53:48] [INFO] =============================================================================
+[2023-05-17 01:53:48] [INFO] test handle:    el3 = driver.find_elements_by_class_name("android.widget.Image")[0]; action:     el3.click()
+; widget: {'y': 232.0, 'x': 292.0, 'w': 33, 'h': 32}
+[2023-05-17 01:53:48] [INFO] candidateThisTime: {'y': 54, 'x': 34, 'w': 1, 'h': 1}
+[2023-05-17 01:53:57] [INFO] ==========test case 0 is tried===========
+[2023-05-17 01:53:57] [INFO] isRepaired: isRepaired
+[2023-06-07 01:42:40] [INFO] =============================================================================
+[2023-06-07 01:42:40] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-06-07 01:42:40] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-06-07 01:42:49] [INFO] =============================================================================
+[2023-06-07 01:42:49] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/photo')[0]; action:     el2.click()
+; widget: {'y': 46.0, 'x': 18.0, 'w': 72, 'h': 72}
+[2023-06-07 01:42:49] [INFO] candidateThisTime: {'y': 65, 'x': 32, 'type': 'non-text', 'w': 44, 'h': 51}
+[2023-06-07 01:43:03] [INFO] =============================================================================
+[2023-06-07 01:43:03] [INFO] test handle:    el3 = driver.find_elements_by_class_name("android.widget.Image")[0]; action:     el3.click()
+; widget: {'y': 232.0, 'x': 292.0, 'w': 33, 'h': 32}
+[2023-06-07 01:43:03] [INFO] candidateThisTime: {'y': 54, 'x': 34, 'w': 1, 'h': 1}
+[2023-06-07 01:43:10] [INFO] ==========test case 0 is tried===========
+[2023-06-07 01:43:10] [INFO] isRepaired: isRepaired
+[2023-06-07 01:49:14] [INFO] =============================================================================
+[2023-06-07 01:49:14] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-06-07 01:49:14] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-06-07 01:49:24] [INFO] =============================================================================
+[2023-06-07 01:49:24] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/photo')[0]; action:     el2.click()
+; widget: {'y': 46.0, 'x': 18.0, 'w': 72, 'h': 72}
+[2023-06-07 01:49:24] [INFO] candidateThisTime: {'y': 65, 'x': 32, 'type': 'non-text', 'w': 44, 'h': 51}
+[2023-06-07 01:49:39] [INFO] =============================================================================
+[2023-06-07 01:49:39] [INFO] test handle:    el3 = driver.find_elements_by_class_name("android.widget.Image")[0]; action:     el3.click()
+; widget: {'y': 232.0, 'x': 292.0, 'w': 33, 'h': 32}
+[2023-06-07 01:49:39] [INFO] candidateThisTime: {'y': 54, 'x': 34, 'w': 1, 'h': 1}
+[2023-06-07 01:49:46] [INFO] ==========test case 0 is tried===========
+[2023-06-07 01:49:46] [INFO] isRepaired: isRepaired
+[2023-06-07 01:51:14] [INFO] =============================================================================
+[2023-06-07 01:51:14] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-06-07 01:51:14] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-06-07 01:51:24] [INFO] =============================================================================
+[2023-06-07 01:51:24] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/photo')[0]; action:     el2.click()
+; widget: {'y': 46.0, 'x': 18.0, 'w': 72, 'h': 72}
+[2023-06-07 01:51:24] [INFO] candidateThisTime: {'y': 65, 'x': 32, 'type': 'non-text', 'w': 44, 'h': 51}
+[2023-06-07 01:51:37] [INFO] =============================================================================
+[2023-06-07 01:51:37] [INFO] test handle:    el3 = driver.find_elements_by_class_name("android.widget.Image")[0]; action:     el3.click()
+; widget: {'y': 232.0, 'x': 292.0, 'w': 33, 'h': 32}
+[2023-06-07 01:51:37] [INFO] candidateThisTime: {'y': 54, 'x': 34, 'w': 1, 'h': 1}
+[2023-06-07 01:51:45] [INFO] ==========test case 0 is tried===========
+[2023-06-07 01:51:45] [INFO] isRepaired: isRepaired

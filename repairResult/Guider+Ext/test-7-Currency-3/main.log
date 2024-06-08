@@ -1,0 +1,18 @@
+[2023-05-15 05:33:29] [INFO] =============================================================================
+[2023-05-15 05:33:29] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+
+[2023-05-15 05:33:29] [INFO] candidate here is:{'idIndex': 0, 'text': 'Updated: May 12, 2023', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': 'org.billthefarmer.currency:id/date', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 22, 'enabled': 'true', 'bounds': '[9,193][172,215]', 'w': 163, 'y': 193, 'x': 9}
+[2023-05-15 05:33:37] [INFO] ==========test case 0 is tried===========
+[2023-05-15 05:33:37] [INFO] isRepaired: have chance to repair
+[2023-06-02 17:53:09] [INFO] =============================================================================
+[2023-06-02 17:53:09] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+
+[2023-06-02 17:53:09] [INFO] candidate here is:{'idIndex': 0, 'text': 'Updated: Jun 2, 2023', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': 'org.billthefarmer.currency:id/date', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 22, 'enabled': 'true', 'bounds': '[9,193][159,215]', 'w': 150, 'y': 193, 'x': 9}
+[2023-06-02 17:53:17] [INFO] ==========test case 0 is tried===========
+[2023-06-02 17:53:17] [INFO] isRepaired: have chance to repair
+[2023-06-03 20:25:30] [INFO] =============================================================================
+[2023-06-03 20:25:30] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+
+[2023-06-03 20:25:30] [INFO] candidate here is:{'idIndex': 0, 'text': 'Updated: Jun 2, 2023', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '6', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 6, 'resource-id': 'org.billthefarmer.currency:id/date', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.billthefarmer.currency', 'h': 22, 'enabled': 'true', 'bounds': '[9,193][159,215]', 'w': 150, 'y': 193, 'x': 9}
+[2023-06-03 20:25:37] [INFO] ==========test case 0 is tried===========
+[2023-06-03 20:25:37] [INFO] isRepaired: have chance to repair

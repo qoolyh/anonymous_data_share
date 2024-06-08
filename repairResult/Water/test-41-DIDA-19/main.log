@@ -1,0 +1,20 @@
+[2023-05-17 03:04:19] [INFO] =============================================================================
+[2023-05-17 03:04:19] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-05-17 03:04:19] [INFO] candidate here is:{'idIndex': 0, 'text': 'Inbox', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/au6', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[63,27][119,90]', 'w': 56, 'y': 27, 'x': 63}
+[2023-05-17 03:06:04] [INFO] =============================================================================
+[2023-05-17 03:06:04] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-05-17 03:06:04] [INFO] candidate here is:{'idIndex': 0, 'text': 'Daily record', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'cn.ticktick.task:id/b0z', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[32,176][126,201]', 'w': 94, 'y': 176, 'x': 32}
+[2023-05-17 03:06:12] [INFO] water can not find matched widget, stop
+[2023-05-17 03:06:12] [INFO] water states betwen two versions can not matched.
+[2023-05-17 03:06:14] [INFO] ==========test case 0 is tried===========
+[2023-05-17 03:06:14] [INFO] isRepaired: isRepaired
+[2023-06-07 05:56:02] [INFO] =============================================================================
+[2023-06-07 05:56:02] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ; action:     el1.click()
+
+[2023-06-07 05:56:02] [INFO] candidate here is:{'idIndex': 0, 'text': 'Daily record', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '3', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 3, 'resource-id': 'cn.ticktick.task:id/b0z', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[32,176][126,201]', 'w': 94, 'y': 176, 'x': 32}
+[2023-06-07 05:56:13] [INFO] water can not find matched widget, stop
+[2023-06-07 05:56:13] [INFO] water states betwen two versions can not matched.
+[2023-06-07 05:56:15] [INFO] ==========test case 0 is tried===========
+[2023-06-07 05:56:15] [INFO] isRepaired: isRepaired

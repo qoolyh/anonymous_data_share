@@ -1,0 +1,4 @@
+================line: 18; test action1=====================
+----------    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/floating_input_card')[0]++++++++++self.driver.find_element_by_classname("android.widget.LinearLayout")
+================line: 21; test action2=====================
+----------    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[0]++++++++++self.driver.find_element_by_accessibility_id("More options")

@@ -1,0 +1,44 @@
+[2023-10-16 21:34:59] [INFO] =============================================================================
+[2023-10-16 21:34:59] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-10-16 21:34:59] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-10-16 21:35:08] [INFO] =============================================================================
+[2023-10-16 21:35:08] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Settings")'); action:     el2.click()
+
+[2023-10-16 21:35:08] [INFO] candidate here is:{'idIndex': 0, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.simplemobiletools.calculator:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 25, 'enabled': 'true', 'bounds': '[333,45][518,70]', 'w': 185, 'y': 45, 'x': 333}
+[2023-10-16 21:35:16] [INFO] =============================================================================
+[2023-10-16 21:35:16] [INFO] test handle:    el3 = driver.find_elements_by_id('com.simplemobiletools.calculator:id/settings_customize_colors_label')[0]; action:     el3.click()
+
+[2023-10-16 21:35:16] [INFO] candidate here is:{'idIndex': 0, 'text': 'Customize colors', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.simplemobiletools.calculator:id/settings_customize_colors_label', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 22, 'enabled': 'true', 'bounds': '[18,117][149,139]', 'w': 131, 'y': 117, 'x': 18}
+[2023-10-16 21:35:24] [INFO] =============================================================================
+[2023-10-16 21:35:24] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Theme")'); action:     el4.click()
+
+[2023-10-16 21:35:24] [INFO] candidate here is:{'idIndex': 0, 'text': 'Theme', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.simplemobiletools.calculator:id/customization_theme_label', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 22, 'enabled': 'true', 'bounds': '[18,122][481,144]', 'w': 463, 'y': 122, 'x': 18}
+[2023-10-16 21:35:32] [INFO] =============================================================================
+[2023-10-16 21:35:32] [INFO] test handle:    el5 = driver.find_element_by_android_uiautomator('new UiSelector().text("Dark theme")'); action:     el5.click()
+
+[2023-10-16 21:35:32] [INFO] candidate here is:{'textIndex': 0, 'text': 'Light', 'clickable': 'true', 'checkable': 'true', 'index': '0', 'checked': 'true', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.RadioButton', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 58, 'enabled': 'true', 'bounds': '[72,348][467,406]', 'w': 395, 'y': 348, 'x': 72}
+[2023-10-16 21:35:38] [INFO] ==========test case 0 is tried===========
+[2023-10-16 21:35:38] [INFO] isRepaired: isRepaired
+[2023-10-16 21:36:50] [INFO] =============================================================================
+[2023-10-16 21:36:50] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-10-16 21:36:50] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-10-16 21:36:57] [INFO] =============================================================================
+[2023-10-16 21:36:57] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Settings")'); action:     el2.click()
+
+[2023-10-16 21:36:57] [INFO] candidate here is:{'idIndex': 0, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.simplemobiletools.calculator:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 25, 'enabled': 'true', 'bounds': '[333,45][518,70]', 'w': 185, 'y': 45, 'x': 333}
+[2023-10-16 21:37:05] [INFO] =============================================================================
+[2023-10-16 21:37:05] [INFO] test handle:    el3 = driver.find_elements_by_id('com.simplemobiletools.calculator:id/settings_customize_colors_label')[0]; action:     el3.click()
+
+[2023-10-16 21:37:05] [INFO] candidate here is:{'idIndex': 0, 'text': 'Customize colors', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.simplemobiletools.calculator:id/settings_customize_colors_label', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 22, 'enabled': 'true', 'bounds': '[18,117][149,139]', 'w': 131, 'y': 117, 'x': 18}
+[2023-10-16 21:37:13] [INFO] =============================================================================
+[2023-10-16 21:37:13] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Theme")'); action:     el4.click()
+
+[2023-10-16 21:37:13] [INFO] candidate here is:{'idIndex': 0, 'text': 'Theme', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.simplemobiletools.calculator:id/customization_theme_label', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 22, 'enabled': 'true', 'bounds': '[18,122][481,144]', 'w': 463, 'y': 122, 'x': 18}
+[2023-10-16 21:37:21] [INFO] =============================================================================
+[2023-10-16 21:37:21] [INFO] test handle:    el5 = driver.find_element_by_android_uiautomator('new UiSelector().text("Dark theme")'); action:     el5.click()
+
+[2023-10-16 21:37:21] [INFO] candidate here is:{'textIndex': 0, 'text': 'Light', 'clickable': 'true', 'checkable': 'true', 'index': '0', 'checked': 'true', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.RadioButton', 'scrollable': 'false', 'package': 'com.simplemobiletools.calculator', 'h': 58, 'enabled': 'true', 'bounds': '[72,348][467,406]', 'w': 395, 'y': 348, 'x': 72}
+[2023-10-16 21:37:27] [INFO] ==========test case 0 is tried===========
+[2023-10-16 21:37:27] [INFO] isRepaired: isRepaired

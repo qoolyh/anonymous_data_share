@@ -1,0 +1,20 @@
+[2023-06-07 07:33:04] [INFO] =============================================================================
+[2023-06-07 07:33:04] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-06-07 07:33:04] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-06-07 07:33:17] [INFO] =============================================================================
+[2023-06-07 07:33:17] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[8]; action:     el2.click()
+; widget: {'y': 225.0, 'x': 18.0, 'w': 23, 'h': 22}
+[2023-06-07 07:33:17] [INFO] candidateThisTime: {'y': 328, 'x': 302, 'type': 'non-text', 'w': 43, 'h': 28}
+[2023-06-07 07:33:38] [INFO] ==========test case 0 is tried===========
+[2023-06-07 07:33:38] [INFO] isRepaired: isRepaired
+[2023-06-07 07:34:32] [INFO] =============================================================================
+[2023-06-07 07:34:32] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-06-07 07:34:32] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-06-07 07:34:43] [INFO] =============================================================================
+[2023-06-07 07:34:43] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageView')[8]; action:     el2.click()
+; widget: {'y': 225.0, 'x': 18.0, 'w': 23, 'h': 22}
+[2023-06-07 07:34:43] [INFO] candidateThisTime: {'y': 328, 'x': 302, 'type': 'non-text', 'w': 43, 'h': 28}
+[2023-06-07 07:34:50] [INFO] ==========test case 0 is tried===========
+[2023-06-07 07:34:50] [INFO] isRepaired: isRepaired

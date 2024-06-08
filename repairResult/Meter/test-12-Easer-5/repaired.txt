@@ -1,0 +1,4 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('Open navigation drawer')++++++++++driver.tap([(37,51)])
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Profile")')++++++++++driver.tap([(41,269)])

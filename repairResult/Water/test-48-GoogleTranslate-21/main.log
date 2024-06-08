@@ -1,0 +1,12 @@
+[2023-05-17 19:00:27] [INFO] =============================================================================
+[2023-05-17 19:00:27] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/touch_to_type_text')[0]; action:     el1.click()
+
+[2023-05-17 19:00:27] [INFO] candidate here is:{'idIndex': 0, 'text': 'Translate', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.translate:id/product_name', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 28, 'enabled': 'true', 'bounds': '[264,44][356,72]', 'w': 92, 'y': 44, 'x': 264}
+[2023-05-17 19:00:37] [INFO] ==========test case 0 is tried===========
+[2023-05-17 19:00:37] [INFO] isRepaired: isRepaired
+[2023-06-07 21:19:26] [INFO] =============================================================================
+[2023-06-07 21:19:26] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/touch_to_type_text')[0]; action:     el1.click()
+
+[2023-06-07 21:19:26] [INFO] candidate here is:{'idIndex': 0, 'text': 'Translate', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.translate:id/product_name', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 28, 'enabled': 'true', 'bounds': '[264,44][356,72]', 'w': 92, 'y': 44, 'x': 264}
+[2023-06-07 21:19:35] [INFO] ==========test case 0 is tried===========
+[2023-06-07 21:19:35] [INFO] isRepaired: isRepaired

@@ -1,0 +1,10 @@
+[2024-06-04 05:14:46] [INFO] =============================================================================
+[2024-06-04 05:14:46] [INFO] test handle:    el1 = driver.find_elements_by_id('com.faltenreich.diaguard:id/fab_container')[0]; action:     el1.click()
+; widget: {'y': 863.0, 'x': 447.0, 'w': 75, 'h': 79}
+[2024-06-04 05:14:46] [INFO] candidateThisTime: {'y': 873, 'x': 460, 'type': 'non-text', 'w': 68, 'h': 68}
+[2024-06-04 05:14:56] [INFO] =============================================================================
+[2024-06-04 05:14:56] [INFO] test handle:    el2 = driver.find_elements_by_id('com.faltenreich.diaguard:id/tag_input')[0]; action:     el2.click()
+; widget: {'y': 152.0, 'x': 72.0, 'w': 414, 'h': 61}
+[2024-06-04 05:14:56] [INFO] candidateThisTime: {'y': 181, 'x': 78, 'type': 'non-text', 'w': 48, 'h': 24}
+[2024-06-04 05:15:06] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:15:06] [INFO] isRepaired: isRepaired

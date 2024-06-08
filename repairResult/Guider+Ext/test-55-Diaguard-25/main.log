@@ -1,0 +1,10 @@
+[2024-06-04 05:09:24] [INFO] =============================================================================
+[2024-06-04 05:09:24] [INFO] test handle:    el1 = driver.find_elements_by_id('com.faltenreich.diaguard:id/fab_container')[0]; action:     el1.click()
+
+[2024-06-04 05:09:24] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': 'New entry', 'instance': '1', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.faltenreich.diaguard:id/fab_primary', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 105, 'enabled': 'true', 'bounds': '[449,855][540,960]', 'w': 91, 'y': 855, 'x': 449}
+[2024-06-04 05:09:32] [INFO] =============================================================================
+[2024-06-04 05:09:32] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageButton')[1]; action:     el2.click()
+
+[2024-06-04 05:09:32] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Add measurement', 'instance': '1', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.faltenreich.diaguard:id/fab_secondary', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 63, 'enabled': 'true', 'bounds': '[463,792][526,855]', 'w': 63, 'y': 792, 'x': 463}
+[2024-06-04 05:09:37] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:09:37] [INFO] isRepaired: have chance to repair
