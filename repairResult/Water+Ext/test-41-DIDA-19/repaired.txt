@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Daily record")')  ++++++++++self.driver.find_element_by_id("cn.ticktick.task:id/b0z")

@@ -1,0 +1,10 @@
+[2023-08-02 19:20:43] [INFO] =============================================================================
+[2023-08-02 19:20:43] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-08-02 19:20:43] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-08-02 19:20:54] [INFO] =============================================================================
+[2023-08-02 19:20:54] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Manage Category")'); action:     el2.click()
+; widget: {'y': 344.0, 'x': 81.0, 'w': 143, 'h': 25}
+[2023-08-02 19:20:54] [INFO] candidateThisTime: {'y': 473, 'x': 79, 'type': 'non-text', 'w': 69, 'h': 22}
+[2023-08-02 19:21:00] [INFO] ==========test case 0 is tried===========
+[2023-08-02 19:21:00] [INFO] isRepaired: have chance to repair

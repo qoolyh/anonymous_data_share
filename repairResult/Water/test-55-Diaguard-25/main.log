@@ -1,0 +1,18 @@
+[2024-06-04 05:01:35] [INFO] =============================================================================
+[2024-06-04 05:01:35] [INFO] test handle:    el1 = driver.find_elements_by_id('com.faltenreich.diaguard:id/fab_container')[0]; action:     el1.click()
+
+[2024-06-04 05:01:35] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': 'New entry', 'instance': '1', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.faltenreich.diaguard:id/fab_primary', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 105, 'enabled': 'true', 'bounds': '[449,855][540,960]', 'w': 91, 'y': 855, 'x': 449}
+[2024-06-04 05:01:43] [INFO] =============================================================================
+[2024-06-04 05:01:43] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.ImageButton')[1]; action:     el2.click()
+
+[2024-06-04 05:01:43] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Add measurement', 'instance': '1', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.faltenreich.diaguard:id/fab_secondary', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 63, 'enabled': 'true', 'bounds': '[463,792][526,855]', 'w': 63, 'y': 792, 'x': 463}
+[2024-06-04 05:01:52] [INFO] =============================================================================
+[2024-06-04 05:01:52] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("All")'); action:     el3.click()
+
+[2024-06-04 05:01:52] [INFO] candidate here is:{'idIndex': 0, 'text': 'Categories', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.faltenreich.diaguard:id/alertTitle', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 37, 'enabled': 'true', 'bounds': '[76,190][206,227]', 'w': 130, 'y': 190, 'x': 76}
+[2024-06-04 05:02:02] [INFO] =============================================================================
+[2024-06-04 05:02:02] [INFO] test handle:    el4 = driver.find_elements_by_id('android:id/button2')[0]; action:     el4.click()
+
+[2024-06-04 05:02:02] [INFO] candidate here is:{'idIndex': 0, 'text': 'Cancel', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'android:id/button2', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 54, 'enabled': 'true', 'bounds': '[305,747][382,801]', 'w': 77, 'y': 747, 'x': 305}
+[2024-06-04 05:02:12] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:02:12] [INFO] isRepaired: isRepaired

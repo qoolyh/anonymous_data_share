@@ -1,0 +1,10 @@
+[2023-08-02 19:17:17] [INFO] =============================================================================
+[2023-08-02 19:17:17] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el1.click()
+
+[2023-08-02 19:17:17] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open the main menu', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.clover.daysmatter', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-08-02 19:17:25] [INFO] =============================================================================
+[2023-08-02 19:17:25] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Work")'); action:     el2.click()
+
+[2023-08-02 19:17:25] [INFO] candidate here is:{'idIndex': 3, 'text': 'Work', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '22', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 22, 'resource-id': 'com.clover.daysmatter:id/drawer_child_item_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.clover.daysmatter', 'h': 25, 'enabled': 'true', 'bounds': '[81,329][122,354]', 'w': 41, 'y': 329, 'x': 81}
+[2023-08-02 19:17:31] [INFO] ==========test case 0 is tried===========
+[2023-08-02 19:17:31] [INFO] isRepaired: isRepaired

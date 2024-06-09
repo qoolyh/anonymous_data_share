@@ -1,0 +1,8 @@
+[2023-08-03 21:22:56] [INFO] =============================================================================
+[2023-08-03 21:22:56] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[7]; action:     el1.click()
+
+[2023-08-03 21:22:56] [INFO] candidate here is:{'idIndex': 2, 'text': u'\uea74', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'cn.ticktick.task:id/w3', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 29, 'enabled': 'true', 'bounds': '[435,918][464,947]', 'w': 29, 'y': 918, 'x': 435}
+[2023-08-03 21:23:04] [INFO] water can not find matched widget, stop
+[2023-08-03 21:23:04] [INFO] water states betwen two versions can not matched.
+[2023-08-03 21:23:06] [INFO] ==========test case 0 is tried===========
+[2023-08-03 21:23:06] [INFO] isRepaired: isRepaired

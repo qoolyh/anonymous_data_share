@@ -1,0 +1,9 @@
+[2023-05-17 05:30:24] [INFO] 初始状态前后状态无法匹配，请检查
+[2023-05-17 05:30:26] [INFO] ==========test case 0 is tried===========
+[2023-05-17 05:30:26] [INFO] isRepaired: isRepaired
+[2023-05-17 18:30:53] [INFO] =============================================================================
+[2023-05-17 18:30:53] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Add'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 390.0, 'w': 50, 'h': 63}
+[2023-05-17 18:30:53] [INFO] candidateThisTime: {'y': 898, 'x': 110, 'type': 'non-text', 'w': 59, 'h': 60}
+[2023-05-17 18:31:02] [INFO] ==========test case 0 is tried===========
+[2023-05-17 18:31:02] [INFO] isRepaired: isRepaired

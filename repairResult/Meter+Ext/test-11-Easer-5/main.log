@@ -1,0 +1,14 @@
+[2023-08-04 05:46:51] [INFO] =============================================================================
+[2023-08-04 05:46:51] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-08-04 05:46:51] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-08-04 05:47:01] [INFO] =============================================================================
+[2023-08-04 05:47:01] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Event")'); action:     el2.click()
+; widget: {'y': 297.0, 'x': 18.0, 'w': 279, 'h': 54}
+[2023-08-04 05:47:01] [INFO] candidateThisTime: {'y': 315, 'x': 16, 'type': 'non-text', 'w': 44, 'h': 17}
+[2023-08-04 05:47:11] [INFO] =============================================================================
+[2023-08-04 05:47:11] [INFO] test handle:    el3 = driver.find_elements_by_id('ryey.easer:id/fab')[0]; action:     el3.click()
+; widget: {'y': 861.0, 'x': 441.0, 'w': 63, 'h': 63}
+[2023-08-04 05:47:11] [INFO] candidateThisTime: {'y': 858, 'x': 438, 'type': 'non-text', 'w': 68, 'h': 68}
+[2023-08-04 05:47:20] [INFO] ==========test case 0 is tried===========
+[2023-08-04 05:47:20] [INFO] isRepaired: isRepaired

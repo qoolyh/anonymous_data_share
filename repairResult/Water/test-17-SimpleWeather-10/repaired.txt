@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('Search')++++++++++self.driver.find_element_by_id("com.a5corp.weather:id/city_field")

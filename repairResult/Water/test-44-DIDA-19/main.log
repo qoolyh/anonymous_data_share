@@ -1,0 +1,16 @@
+[2023-10-16 00:49:09] [INFO] =============================================================================
+[2023-10-16 00:49:09] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+
+[2023-10-16 00:49:09] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'cn.ticktick.task:id/c6', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[459,825][522,888]', 'w': 63, 'y': 825, 'x': 459}
+[2023-10-16 00:49:16] [INFO] =============================================================================
+[2023-10-16 00:49:16] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ; action:     el2.click()
+
+[2023-10-16 00:49:16] [INFO] candidate here is:{'idIndex': 0, 'text': u'\ue92b', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'cn.ticktick.task:id/wa', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-10-16 00:49:24] [INFO] =============================================================================
+[2023-10-16 00:49:24] [INFO] test handle:    el3 = driver.find_elements_by_id('cn.ticktick.task:id/level_icon')[0]  ; action:     el3.click()
+
+[2023-10-16 00:49:24] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-10-16 00:49:32] [INFO] water can not find matched widget, stop
+[2023-10-16 00:49:32] [INFO] water states betwen two versions can not matched.
+[2023-10-16 00:49:33] [INFO] ==========test case 0 is tried===========
+[2023-10-16 00:49:33] [INFO] isRepaired: isRepaired

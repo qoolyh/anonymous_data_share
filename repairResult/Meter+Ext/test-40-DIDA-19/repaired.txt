@@ -1,0 +1,8 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ++++++++++driver.tap([(38,52)])
+================line: 23; test action3=====================
+----------    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ++++++++++driver.tap([(443,69)])
+================line: 27; test action5=====================
+----------    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ++++++++++driver.tap([(93,642)])
+================line: 31; test action7=====================
+----------    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ++++++++++driver.tap([(125,547)])

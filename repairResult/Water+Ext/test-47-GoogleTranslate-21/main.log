@@ -1,0 +1,12 @@
+[2023-05-17 19:05:27] [INFO] =============================================================================
+[2023-05-17 19:05:27] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Original language: English.')  ; action:     el1.click()
+
+[2023-05-17 19:05:27] [INFO] candidate here is:{'idIndex': 0, 'text': 'English', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.google.android.apps.translate:id/language_button_a', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 63, 'enabled': 'true', 'bounds': '[27,726][238,789]', 'w': 211, 'y': 726, 'x': 27}
+[2023-05-17 19:05:34] [INFO] ==========test case 0 is tried===========
+[2023-05-17 19:05:34] [INFO] isRepaired: isRepaired
+[2023-06-07 21:06:42] [INFO] =============================================================================
+[2023-06-07 21:06:42] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Original language: English.')  ; action:     el1.click()
+
+[2023-06-07 21:06:42] [INFO] candidate here is:{'idIndex': 0, 'text': 'English', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'com.google.android.apps.translate:id/language_button_a', 'password': 'false', 'class': 'android.widget.Button', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 63, 'enabled': 'true', 'bounds': '[27,726][238,789]', 'w': 211, 'y': 726, 'x': 27}
+[2023-06-07 21:06:48] [INFO] ==========test case 0 is tried===========
+[2023-06-07 21:06:48] [INFO] isRepaired: isRepaired

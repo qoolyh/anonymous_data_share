@@ -1,0 +1,36 @@
+[2023-10-15 05:22:37] [INFO] =============================================================================
+[2023-10-15 05:22:37] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-15 05:22:37] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-10-15 05:22:58] [INFO] =============================================================================
+[2023-10-15 05:22:58] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Profile")'); action:     el2.click()
+; widget: {'y': 243.0, 'x': 18.0, 'w': 279, 'h': 54}
+[2023-10-15 05:22:58] [INFO] candidateThisTime: {'y': 261, 'x': 16, 'type': 'non-text', 'w': 50, 'h': 17}
+[2023-10-15 05:23:07] [INFO] =============================================================================
+[2023-10-15 05:23:07] [INFO] test handle:    el3 = driver.find_elements_by_id('ryey.easer:id/fab')[0]; action:     el3.click()
+; widget: {'y': 861.0, 'x': 441.0, 'w': 63, 'h': 63}
+[2023-10-15 05:23:07] [INFO] candidateThisTime: {'y': 858, 'x': 438, 'type': 'non-text', 'w': 68, 'h': 68}
+[2023-10-15 05:23:18] [INFO] =============================================================================
+[2023-10-15 05:23:18] [INFO] test handle:    el5 = driver.find_elements_by_id('ryey.easer:id/button_add_operation')[0]; action:     el5.click()
+; widget: {'y': 141.0, 'x': 18.0, 'w': 504, 'h': 56}
+[2023-10-15 05:23:18] [INFO] candidateThisTime: {'y': 156, 'x': 257, 'type': 'non-text', 'w': 25, 'h': 25}
+[2023-10-15 05:23:27] [INFO] ==========test case 0 is tried===========
+[2023-10-15 05:23:27] [INFO] isRepaired: have chance to repair
+[2023-10-15 05:32:10] [INFO] =============================================================================
+[2023-10-15 05:32:10] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-15 05:32:10] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-10-15 05:32:20] [INFO] =============================================================================
+[2023-10-15 05:32:20] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Profile")'); action:     el2.click()
+; widget: {'y': 243.0, 'x': 18.0, 'w': 279, 'h': 54}
+[2023-10-15 05:32:20] [INFO] candidateThisTime: {'y': 261, 'x': 16, 'type': 'non-text', 'w': 50, 'h': 17}
+[2023-10-15 05:32:33] [INFO] =============================================================================
+[2023-10-15 05:32:33] [INFO] test handle:    el3 = driver.find_elements_by_id('ryey.easer:id/fab')[0]; action:     el3.click()
+; widget: {'y': 861.0, 'x': 441.0, 'w': 63, 'h': 63}
+[2023-10-15 05:32:33] [INFO] candidateThisTime: {'y': 858, 'x': 438, 'type': 'non-text', 'w': 68, 'h': 68}
+[2023-10-15 05:32:50] [INFO] =============================================================================
+[2023-10-15 05:32:50] [INFO] test handle:    el5 = driver.find_elements_by_id('ryey.easer:id/button_add_operation')[0]; action:     el5.click()
+; widget: {'y': 141.0, 'x': 18.0, 'w': 504, 'h': 56}
+[2023-10-15 05:32:50] [INFO] candidateThisTime: {'y': 156, 'x': 257, 'type': 'non-text', 'w': 25, 'h': 25}
+[2023-10-15 05:32:56] [INFO] ==========test case 0 is tried===========
+[2023-10-15 05:32:56] [INFO] isRepaired: have chance to repair

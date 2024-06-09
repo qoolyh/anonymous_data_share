@@ -1,0 +1,36 @@
+[2023-05-17 02:51:58] [INFO] =============================================================================
+[2023-05-17 02:51:58] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-05-17 02:51:58] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-05-17 02:52:08] [INFO] =============================================================================
+[2023-05-17 02:52:08] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ; action:     el2.click()
+; widget: {'y': 32.0, 'x': 423.0, 'w': 54, 'h': 54}
+[2023-05-17 02:52:08] [INFO] candidateThisTime: {'y': 54, 'x': 442, 'w': 1, 'h': 1}
+[2023-05-17 02:52:19] [INFO] =============================================================================
+[2023-05-17 02:52:19] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ; action:     el3.click()
+; widget: {'y': 609.0, 'x': 63.0, 'w': 62, 'h': 25}
+[2023-05-17 02:52:19] [INFO] candidateThisTime: {'y': 633, 'x': 61, 'type': 'non-text', 'w': 65, 'h': 19}
+[2023-05-17 02:52:29] [INFO] =============================================================================
+[2023-05-17 02:52:29] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ; action:     el4.click()
+; widget: {'y': 532.0, 'x': 18.0, 'w': 76, 'h': 25}
+[2023-05-17 02:52:29] [INFO] candidateThisTime: {'y': 536, 'x': 86, 'type': 'non-text', 'w': 79, 'h': 22}
+[2023-05-17 02:52:37] [INFO] ==========test case 0 is tried===========
+[2023-05-17 02:52:37] [INFO] isRepaired: isRepaired
+[2023-06-07 03:18:53] [INFO] =============================================================================
+[2023-06-07 03:18:53] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-06-07 03:18:53] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-06-07 03:19:04] [INFO] =============================================================================
+[2023-06-07 03:19:04] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ; action:     el2.click()
+; widget: {'y': 32.0, 'x': 423.0, 'w': 54, 'h': 54}
+[2023-06-07 03:19:04] [INFO] candidateThisTime: {'y': 69, 'x': 443, 'w': 1, 'h': 1}
+[2023-06-07 03:19:19] [INFO] =============================================================================
+[2023-06-07 03:19:19] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ; action:     el3.click()
+; widget: {'y': 609.0, 'x': 63.0, 'w': 62, 'h': 25}
+[2023-06-07 03:19:19] [INFO] candidateThisTime: {'y': 633, 'x': 61, 'type': 'non-text', 'w': 65, 'h': 19}
+[2023-06-07 03:19:30] [INFO] =============================================================================
+[2023-06-07 03:19:30] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ; action:     el4.click()
+; widget: {'y': 532.0, 'x': 18.0, 'w': 76, 'h': 25}
+[2023-06-07 03:19:30] [INFO] candidateThisTime: {'y': 536, 'x': 86, 'type': 'non-text', 'w': 79, 'h': 22}
+[2023-06-07 03:19:40] [INFO] ==========test case 0 is tried===========
+[2023-06-07 03:19:40] [INFO] isRepaired: isRepaired

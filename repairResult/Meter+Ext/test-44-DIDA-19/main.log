@@ -1,0 +1,14 @@
+[2023-10-16 06:17:10] [INFO] =============================================================================
+[2023-10-16 06:17:10] [INFO] test handle:    el1 = driver.find_elements_by_class_name("android.widget.TextView")[7]  ; action:     el1.click()
+; widget: {'y': 918.0, 'x': 435.0, 'w': 29, 'h': 29}
+[2023-10-16 06:17:10] [INFO] candidateThisTime: {'y': 916, 'x': 434, 'type': 'non-text', 'w': 30, 'h': 31}
+[2023-10-16 06:17:20] [INFO] =============================================================================
+[2023-10-16 06:17:20] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("123")'); action:     el2.click()
+; widget: {'y': 116.0, 'x': 90.0, 'w': 378, 'h': 28}
+[2023-10-16 06:17:20] [INFO] candidateThisTime: {'y': 108, 'x': 118, 'type': 'non-text', 'w': 35, 'h': 21}
+[2023-10-16 06:17:30] [INFO] =============================================================================
+[2023-10-16 06:17:30] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("My Achievement Score")'); action:     el3.click()
+; widget: {'y': 406.0, 'x': 33.0, 'w': 189, 'h': 29}
+[2023-10-16 06:17:30] [INFO] candidateThisTime: {'y': 478, 'x': 34, 'type': 'non-text', 'w': 164, 'h': 20}
+[2023-10-16 06:17:37] [INFO] ==========test case 0 is tried===========
+[2023-10-16 06:17:37] [INFO] isRepaired: have chance to repair

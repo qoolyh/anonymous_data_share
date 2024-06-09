@@ -1,0 +1,10 @@
+[2023-10-15 19:41:15] [INFO] =============================================================================
+[2023-10-15 19:41:15] [INFO] test handle:    el0 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el0.click()
+
+[2023-10-15 19:41:15] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open the main menu', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.clover.daysmatter', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-10-15 19:41:23] [INFO] =============================================================================
+[2023-10-15 19:41:23] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Date Calculator")'); action:     el1.click()
+
+[2023-10-15 19:41:23] [INFO] candidate here is:{'idIndex': 1, 'text': 'DaysMatter Book', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '27', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 27, 'resource-id': 'com.clover.daysmatter:id/drawer_item_title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.clover.daysmatter', 'h': 25, 'enabled': 'true', 'bounds': '[81,529][219,554]', 'w': 138, 'y': 529, 'x': 81}
+[2023-10-15 19:41:29] [INFO] ==========test case 0 is tried===========
+[2023-10-15 19:41:29] [INFO] isRepaired: isRepaired

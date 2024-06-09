@@ -1,0 +1,8 @@
+[2024-06-04 05:47:55] [INFO] =============================================================================
+[2024-06-04 05:47:55] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[4]; action:     el1.click()
+
+[2024-06-04 05:47:55] [INFO] candidate here is:{'textIndex': 0, 'text': 'Subscribed Subreddits', 'clickable': 'false', 'checkable': 'false', 'index': '4', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '4', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 4, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.quantumbadger.redreader', 'h': 56, 'enabled': 'true', 'bounds': '[9,251][531,307]', 'w': 522, 'y': 251, 'x': 9}
+[2024-06-04 05:48:06] [INFO] water can not find matched widget, stop
+[2024-06-04 05:48:06] [INFO] water states betwen two versions can not matched.
+[2024-06-04 05:48:07] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:48:07] [INFO] isRepaired: isRepaired

@@ -1,0 +1,24 @@
+[2023-05-15 06:20:49] [INFO] =============================================================================
+[2023-05-15 06:20:49] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-05-15 06:20:49] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-05-15 06:20:57] [INFO] =============================================================================
+[2023-05-15 06:20:57] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("New Config")'); action:     el2.click()
+
+[2023-05-15 06:20:57] [INFO] candidate here is:{'idIndex': 0, 'text': 'Help', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'org.cipherdyne.fwknop2:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 25, 'enabled': 'true', 'bounds': '[333,45][518,70]', 'w': 185, 'y': 45, 'x': 333}
+[2023-05-15 06:21:04] [INFO] water can not find matched widget, stop
+[2023-05-15 06:21:04] [INFO] water states betwen two versions can not matched.
+[2023-05-15 06:21:06] [INFO] ==========test case 0 is tried===========
+[2023-05-15 06:21:06] [INFO] isRepaired: isRepaired
+[2023-06-06 19:21:39] [INFO] =============================================================================
+[2023-06-06 19:21:39] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-06-06 19:21:39] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-06-06 19:21:49] [INFO] =============================================================================
+[2023-06-06 19:21:49] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("New Config")'); action:     el2.click()
+
+[2023-06-06 19:21:49] [INFO] candidate here is:{'idIndex': 0, 'text': 'Help', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'org.cipherdyne.fwknop2:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 25, 'enabled': 'true', 'bounds': '[333,45][518,70]', 'w': 185, 'y': 45, 'x': 333}
+[2023-06-06 19:21:59] [INFO] water can not find matched widget, stop
+[2023-06-06 19:21:59] [INFO] water states betwen two versions can not matched.
+[2023-06-06 19:22:01] [INFO] ==========test case 0 is tried===========
+[2023-06-06 19:22:01] [INFO] isRepaired: isRepaired

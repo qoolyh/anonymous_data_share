@@ -1,0 +1,8 @@
+[2023-10-15 06:57:19] [INFO] =============================================================================
+[2023-10-15 06:57:19] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+
+[2023-10-15 06:57:19] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open navigation drawer', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-10-15 06:57:31] [INFO] =============================================================================
+[2023-10-15 06:57:31] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Profile")'); action:     el2.click()
+
+[2023-10-15 06:57:31] [INFO] candidate here is:{'idIndex': 1, 'text': 'Profile', 'clickable': 'false', 'checkable': 'true', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'ryey.easer:id/design_menu_item_text', 'password': 'false', 'class': 'android.widget.CheckedTextView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 54, 'enabled': 'true', 'bounds': '[18,243][297,297]', 'w': 279, 'y': 243, 'x': 18}

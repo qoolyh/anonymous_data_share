@@ -1,0 +1,20 @@
+[2023-05-15 19:23:51] [INFO] =============================================================================
+[2023-05-15 19:23:51] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-05-15 19:23:51] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-05-15 19:23:58] [INFO] =============================================================================
+[2023-05-15 19:23:58] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("About")'); action:     el2.click()
+
+[2023-05-15 19:23:58] [INFO] candidate here is:{'idIndex': 0, 'text': 'Start', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'ryey.easer:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 25, 'enabled': 'true', 'bounds': '[333,45][518,70]', 'w': 185, 'y': 45, 'x': 333}
+[2023-05-15 19:24:05] [INFO] ==========test case 0 is tried===========
+[2023-05-15 19:24:05] [INFO] isRepaired: isRepaired
+[2023-06-06 07:19:30] [INFO] =============================================================================
+[2023-06-06 07:19:30] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-06-06 07:19:30] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-06-06 07:19:42] [INFO] =============================================================================
+[2023-06-06 07:19:42] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("About")'); action:     el2.click()
+
+[2023-06-06 07:19:42] [INFO] candidate here is:{'idIndex': 0, 'text': 'Start', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'ryey.easer:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 25, 'enabled': 'true', 'bounds': '[333,45][518,70]', 'w': 185, 'y': 45, 'x': 333}
+[2023-06-06 07:19:48] [INFO] ==========test case 0 is tried===========
+[2023-06-06 07:19:48] [INFO] isRepaired: isRepaired

@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_accessibility_id('Original language: English.')  ++++++++++self.driver.find_element_by_id("com.google.android.apps.translate:id/language_button_a")

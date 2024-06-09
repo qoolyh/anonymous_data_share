@@ -1,0 +1,10 @@
+[2023-08-04 05:49:04] [INFO] =============================================================================
+[2023-08-04 05:49:04] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-08-04 05:49:04] [INFO] candidateThisTime: {'y': 51, 'x': 37, 'w': 1, 'h': 1}
+[2023-08-04 05:49:14] [INFO] =============================================================================
+[2023-08-04 05:49:14] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("About")'); action:     el2.click()
+; widget: {'y': 469.0, 'x': 18.0, 'w': 279, 'h': 54}
+[2023-08-04 05:49:14] [INFO] candidateThisTime: {'y': 542, 'x': 16, 'type': 'non-text', 'w': 47, 'h': 16}
+[2023-08-04 05:49:23] [INFO] ==========test case 0 is tried===========
+[2023-08-04 05:49:23] [INFO] isRepaired: isRepaired

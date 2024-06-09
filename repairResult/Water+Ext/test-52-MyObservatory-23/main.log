@@ -1,0 +1,12 @@
+[2023-05-17 05:28:15] [INFO] =============================================================================
+[2023-05-17 05:28:15] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Add'); action:     el1.click()
+
+[2023-05-17 05:28:15] [INFO] candidate here is:{'textIndex': 0, 'text': 'MyObservatory', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'hko.MyObservatory_v1_0', 'h': 32, 'enabled': 'true', 'bounds': '[81,42][236,74]', 'w': 155, 'y': 42, 'x': 81}
+[2023-05-17 05:28:24] [INFO] ==========test case 0 is tried===========
+[2023-05-17 05:28:24] [INFO] isRepaired: isRepaired
+[2023-05-17 18:40:26] [INFO] =============================================================================
+[2023-05-17 18:40:26] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Add'); action:     el1.click()
+
+[2023-05-17 18:40:26] [INFO] candidate here is:{'textIndex': 0, 'text': 'MyObservatory', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'hko.MyObservatory_v1_0', 'h': 32, 'enabled': 'true', 'bounds': '[81,42][236,74]', 'w': 155, 'y': 42, 'x': 81}
+[2023-05-17 18:40:36] [INFO] ==========test case 0 is tried===========
+[2023-05-17 18:40:36] [INFO] isRepaired: isRepaired

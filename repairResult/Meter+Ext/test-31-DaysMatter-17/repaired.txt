@@ -1,0 +1,4 @@
+================line: 19; test action1=====================
+----------    el0 = driver.find_element_by_accessibility_id('Open the main menu')++++++++++driver.tap([(37,51)])
+================line: 23; test action3=====================
+----------    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Today in History")')++++++++++driver.tap([(114,604)])

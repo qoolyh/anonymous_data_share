@@ -1,0 +1,2 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")')++++++++++driver.tap([(211,178)])

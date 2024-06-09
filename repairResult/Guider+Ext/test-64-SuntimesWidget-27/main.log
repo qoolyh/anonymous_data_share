@@ -1,0 +1,14 @@
+[2024-06-04 06:15:25] [INFO] =============================================================================
+[2024-06-04 06:15:25] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2024-06-04 06:15:25] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '2', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 54, 'enabled': 'true', 'bounds': '[495,30][540,84]', 'w': 45, 'y': 30, 'x': 495}
+[2024-06-04 06:15:33] [INFO] =============================================================================
+[2024-06-04 06:15:33] [INFO] test handle:    el2 = driver.find_elements_by_id('com.forrestguice.suntimeswidget:id/title')[7]; action:     el2.click()
+
+[2024-06-04 06:15:33] [INFO] candidate here is:{'idIndex': 7, 'text': 'Settings', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'com.forrestguice.suntimeswidget:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 25, 'enabled': 'true', 'bounds': '[370,422][518,447]', 'w': 148, 'y': 422, 'x': 370}
+[2024-06-04 06:15:41] [INFO] =============================================================================
+[2024-06-04 06:15:41] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General Settings")'); action:     el3.click()
+
+[2024-06-04 06:15:41] [INFO] candidate here is:{'idIndex': 0, 'text': 'General', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.forrestguice.suntimeswidget', 'h': 25, 'enabled': 'true', 'bounds': '[72,41][134,66]', 'w': 62, 'y': 41, 'x': 72}
+[2024-06-04 06:15:47] [INFO] ==========test case 0 is tried===========
+[2024-06-04 06:15:47] [INFO] isRepaired: isRepaired

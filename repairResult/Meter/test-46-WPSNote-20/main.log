@@ -1,0 +1,14 @@
+[2023-11-06 00:49:59] [INFO] =============================================================================
+[2023-11-06 00:49:59] [INFO] test handle:    el1 = driver.find_elements_by_class_name("android.widget.ImageView")[7]; action:     el1.click()
+; widget: {'y': 920.0, 'x': 460.0, 'w': 25, 'h': 25}
+[2023-11-06 00:49:59] [INFO] candidateThisTime: {'y': 918, 'x': 459, 'type': 'non-text', 'w': 27, 'h': 28}
+[2023-11-06 00:50:35] [INFO] =============================================================================
+[2023-11-06 00:50:35] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.wps.note:id/me_setting')[0]; action:     el2.click()
+; widget: {'y': 329.0, 'x': 0.0, 'w': 540, 'h': 72}
+[2023-11-06 00:50:35] [INFO] candidateThisTime: {'y': 584, 'x': 27, 'type': 'non-text', 'w': 70, 'h': 22}
+[2023-11-06 00:51:14] [INFO] =============================================================================
+[2023-11-06 00:51:14] [INFO] test handle:    el3 = driver.find_elements_by_id('cn.wps.note:id/font_setting')[0]; action:     el3.click()
+; widget: {'y': 78.0, 'x': 0.0, 'w': 540, 'h': 72}
+[2023-11-06 00:51:14] [INFO] candidateThisTime: {'y': 105, 'x': 27, 'type': 'non-text', 'w': 82, 'h': 19}
+[2023-11-06 00:51:22] [INFO] ==========test case 0 is tried===========
+[2023-11-06 00:51:22] [INFO] isRepaired: have chance to repair

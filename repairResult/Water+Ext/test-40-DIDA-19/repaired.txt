@@ -1,0 +1,6 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_class_name('android.widget.TextView')[7] ++++++++++self.driver.find_elements_by_id("cn.ticktick.task:id/w3")[2]
+================line: 23; test action3=====================
+----------    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ++++++++++self.driver.find_elements_by_id("android:id/title")[5]
+================line: 27; test action5=====================
+----------    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ++++++++++self.driver.find_element_by_id("android:id/title")

@@ -1,0 +1,24 @@
+[2023-10-16 00:51:35] [INFO] =============================================================================
+[2023-10-16 00:51:35] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-16 00:51:35] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-10-16 00:51:40] [INFO] ==========test case 0 is tried===========
+[2023-10-16 00:51:40] [INFO] isRepaired: have chance to repair
+[2023-10-16 00:53:00] [INFO] =============================================================================
+[2023-10-16 00:53:00] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-16 00:53:00] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-10-16 00:53:05] [INFO] ==========test case 0 is tried===========
+[2023-10-16 00:53:05] [INFO] isRepaired: have chance to repair
+[2023-10-16 00:54:43] [INFO] =============================================================================
+[2023-10-16 00:54:43] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-16 00:54:43] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-10-16 00:54:48] [INFO] ==========test case 0 is tried===========
+[2023-10-16 00:54:48] [INFO] isRepaired: have chance to repair
+[2023-10-16 01:33:00] [INFO] =============================================================================
+[2023-10-16 01:33:00] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-16 01:33:00] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-10-16 01:33:09] [INFO] ==========test case 0 is tried===========
+[2023-10-16 01:33:09] [INFO] isRepaired: have chance to repair

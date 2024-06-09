@@ -1,0 +1,10 @@
+[2023-10-16 06:07:48] [INFO] =============================================================================
+[2023-10-16 06:07:48] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[7]; action:     el1.click()
+; widget: {'y': 918.0, 'x': 435.0, 'w': 29, 'h': 29}
+[2023-10-16 06:07:48] [INFO] candidateThisTime: {'y': 916, 'x': 434, 'type': 'non-text', 'w': 30, 'h': 31}
+[2023-10-16 06:07:57] [INFO] =============================================================================
+[2023-10-16 06:07:57] [INFO] test handle:    el2 = driver.find_elements_by_class_name('android.widget.TextView')[15]  ; action:     el2.click()
+; widget: {'y': 706.0, 'x': 18.0, 'w': 27, 'h': 28}
+[2023-10-16 06:07:57] [INFO] candidateThisTime: {'y': 727, 'x': 16, 'type': 'non-text', 'w': 29, 'h': 25}
+[2023-10-16 06:08:11] [INFO] ==========test case 0 is tried===========
+[2023-10-16 06:08:11] [INFO] isRepaired: isRepaired

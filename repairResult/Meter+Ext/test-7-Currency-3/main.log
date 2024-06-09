@@ -1,0 +1,18 @@
+[2023-05-15 05:44:54] [INFO] =============================================================================
+[2023-05-15 05:44:54] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 477.0, 'w': 63, 'h': 54}
+[2023-05-15 05:44:54] [INFO] candidateThisTime: {'y': 223, 'x': 2, 'type': 'non-text', 'w': 532, 'h': 313}
+[2023-05-15 05:45:03] [INFO] ==========test case 0 is tried===========
+[2023-05-15 05:45:03] [INFO] isRepaired: isRepaired
+[2023-06-03 05:54:28] [INFO] =============================================================================
+[2023-06-03 05:54:28] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 477.0, 'w': 63, 'h': 54}
+[2023-06-03 05:54:28] [INFO] candidateThisTime: {'y': 223, 'x': 2, 'type': 'non-text', 'w': 532, 'h': 313}
+[2023-06-03 05:54:38] [INFO] ==========test case 0 is tried===========
+[2023-06-03 05:54:38] [INFO] isRepaired: isRepaired
+[2023-06-03 20:22:54] [INFO] =============================================================================
+[2023-06-03 20:22:54] [INFO] test handle:    el1 = driver.find_element_by_id('org.billthefarmer.currency:id/action_settings'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 477.0, 'w': 63, 'h': 54}
+[2023-06-03 20:22:54] [INFO] candidateThisTime: {'y': 223, 'x': 2, 'type': 'non-text', 'w': 532, 'h': 313}
+[2023-06-03 20:23:02] [INFO] ==========test case 0 is tried===========
+[2023-06-03 20:23:02] [INFO] isRepaired: isRepaired

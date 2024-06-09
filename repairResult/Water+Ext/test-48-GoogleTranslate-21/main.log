@@ -1,0 +1,6 @@
+[2023-08-02 21:10:24] [INFO] =============================================================================
+[2023-08-02 21:10:24] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/floating_input_card')[0]; action:     el1.click()
+
+[2023-08-02 21:10:24] [INFO] candidate here is:{'text': '', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.LinearLayout', 'scrollable': 'false', 'package': 'com.google.android.apps.translate', 'h': 960, 'enabled': 'true', 'bounds': '[0,0][540,960]', 'w': 540, 'y': 0, 'x': 0}
+[2023-08-02 21:10:31] [INFO] ==========test case 0 is tried===========
+[2023-08-02 21:10:31] [INFO] isRepaired: isRepaired

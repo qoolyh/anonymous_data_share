@@ -1,0 +1,7 @@
+[2024-06-04 05:06:04] [INFO] =============================================================================
+[2024-06-04 05:06:04] [INFO] test handle:    el1 = driver.find_elements_by_id('com.faltenreich.diaguard:id/fab_container')[0]; action:     el1.click()
+; widget: {'y': 863.0, 'x': 447.0, 'w': 75, 'h': 79}
+[2024-06-04 05:06:04] [INFO] candidateThisTime: {'y': 873, 'x': 460, 'type': 'non-text', 'w': 68, 'h': 68}
+[2024-06-04 05:06:14] [INFO] 初始状态前后状态无法匹配，请检查
+[2024-06-04 05:06:16] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:06:16] [INFO] isRepaired: isRepaired

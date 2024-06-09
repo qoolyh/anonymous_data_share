@@ -1,0 +1,14 @@
+[2023-10-16 00:46:05] [INFO] =============================================================================
+[2023-10-16 00:46:05] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.ImageButton')[0] ; action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2023-10-16 00:46:05] [INFO] candidateThisTime: {'y': 52, 'x': 38, 'w': 1, 'h': 1}
+[2023-10-16 00:46:17] [INFO] =============================================================================
+[2023-10-16 00:46:17] [INFO] test handle:    el2 = driver.find_elements_by_id('cn.ticktick.task:id/settings_btn')[0] ; action:     el2.click()
+; widget: {'y': 32.0, 'x': 423.0, 'w': 54, 'h': 54}
+[2023-10-16 00:46:17] [INFO] candidateThisTime: {'y': 54, 'x': 442, 'w': 1, 'h': 1}
+[2023-10-16 00:46:28] [INFO] =============================================================================
+[2023-10-16 00:46:28] [INFO] test handle:    el3 = driver.find_elements_by_id('cn.ticktick.task:id/level_icon')[0]  ; action:     el3.click()
+; widget: {'y': 94.0, 'x': 468.0, 'w': 72, 'h': 72}
+[2023-10-16 00:46:28] [INFO] candidateThisTime: {'y': 244, 'x': 424, 'type': 'non-text', 'w': 87, 'h': 24}
+[2023-10-16 00:46:36] [INFO] ==========test case 0 is tried===========
+[2023-10-16 00:46:36] [INFO] isRepaired: have chance to repair

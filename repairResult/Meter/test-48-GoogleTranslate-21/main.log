@@ -1,0 +1,12 @@
+[2023-05-17 18:55:52] [INFO] =============================================================================
+[2023-05-17 18:55:52] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/touch_to_type_text')[0]; action:     el1.click()
+; widget: {'y': 168.0, 'x': 18.0, 'w': 382, 'h': 34}
+[2023-05-17 18:55:52] [INFO] candidateThisTime: {'y': 134, 'x': 118, 'type': 'non-text', 'w': 66, 'h': 30}
+[2023-05-17 18:56:03] [INFO] ==========test case 0 is tried===========
+[2023-05-17 18:56:03] [INFO] isRepaired: isRepaired
+[2023-06-07 21:14:38] [INFO] =============================================================================
+[2023-06-07 21:14:38] [INFO] test handle:    el1 = driver.find_elements_by_id('com.google.android.apps.translate:id/touch_to_type_text')[0]; action:     el1.click()
+; widget: {'y': 168.0, 'x': 18.0, 'w': 382, 'h': 34}
+[2023-06-07 21:14:38] [INFO] candidateThisTime: {'y': 134, 'x': 118, 'type': 'non-text', 'w': 66, 'h': 30}
+[2023-06-07 21:14:46] [INFO] ==========test case 0 is tried===========
+[2023-06-07 21:14:46] [INFO] isRepaired: isRepaired

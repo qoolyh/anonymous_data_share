@@ -1,0 +1,18 @@
+[2023-05-17 18:49:35] [INFO] =============================================================================
+[2023-05-17 18:49:35] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Journal")'); action:     el1.click()
+
+[2023-05-17 18:49:35] [INFO] candidate here is:{'idIndex': 0, 'text': 'Home', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'true', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.fitness:id/navigation_bar_item_large_label_view', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 21, 'enabled': 'true', 'bounds': '[45,933][89,954]', 'w': 44, 'y': 933, 'x': 45}
+[2023-05-17 18:49:42] [INFO] ==========test case 0 is tried===========
+[2023-05-17 18:49:42] [INFO] isRepaired: isRepaired
+[2023-06-08 05:01:49] [INFO] =============================================================================
+[2023-06-08 05:01:49] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Journal")'); action:     el1.click()
+
+[2023-06-08 05:01:49] [INFO] candidate here is:{'idIndex': 0, 'text': 'Home', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'true', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.fitness:id/navigation_bar_item_large_label_view', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 21, 'enabled': 'true', 'bounds': '[45,933][89,954]', 'w': 44, 'y': 933, 'x': 45}
+[2023-06-08 05:01:56] [INFO] ==========test case 0 is tried===========
+[2023-06-08 05:01:56] [INFO] isRepaired: isRepaired
+[2023-06-08 05:04:12] [INFO] =============================================================================
+[2023-06-08 05:04:12] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Journal")'); action:     el1.click()
+
+[2023-06-08 05:04:12] [INFO] candidate here is:{'idIndex': 0, 'text': 'Home', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'true', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.google.android.apps.fitness:id/navigation_bar_item_large_label_view', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.google.android.apps.fitness', 'h': 21, 'enabled': 'true', 'bounds': '[45,933][89,954]', 'w': 44, 'y': 933, 'x': 45}
+[2023-06-08 05:04:18] [INFO] ==========test case 0 is tried===========
+[2023-06-08 05:04:18] [INFO] isRepaired: isRepaired

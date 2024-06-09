@@ -1,0 +1,14 @@
+[2024-06-04 05:19:07] [INFO] =============================================================================
+[2024-06-04 05:19:07] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open Navigator'); action:     el1.click()
+; widget: {'y': 27.0, 'x': 0.0, 'w': 63, 'h': 63}
+[2024-06-04 05:19:07] [INFO] candidateThisTime: {'y': 55, 'x': 37, 'w': 1, 'h': 1}
+[2024-06-04 05:19:17] [INFO] =============================================================================
+[2024-06-04 05:19:17] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Export")'); action:     el2.click()
+; widget: {'y': 388.0, 'x': 25.0, 'w': 310, 'h': 54}
+[2024-06-04 05:19:17] [INFO] candidateThisTime: {'y': 415, 'x': 30, 'type': 'non-text', 'w': 50, 'h': 21}
+[2024-06-04 05:19:27] [INFO] =============================================================================
+[2024-06-04 05:19:27] [INFO] test handle:    el3 = driver.find_elements_by_id('com.faltenreich.diaguard:id/date_start_button')[0]; action:     el3.click()
+; widget: {'y': 90.0, 'x': 72.0, 'w': 113, 'h': 61}
+[2024-06-04 05:19:27] [INFO] candidateThisTime: {'y': 121, 'x': 83, 'type': 'non-text', 'w': 31, 'h': 16}
+[2024-06-04 05:19:33] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:19:33] [INFO] isRepaired: have chance to repair

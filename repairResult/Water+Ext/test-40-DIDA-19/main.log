@@ -1,0 +1,14 @@
+[2023-08-03 21:09:00] [INFO] =============================================================================
+[2023-08-03 21:09:00] [INFO] test handle:    el1 = driver.find_elements_by_class_name('android.widget.TextView')[7] ; action:     el1.click()
+
+[2023-08-03 21:09:00] [INFO] candidate here is:{'idIndex': 2, 'text': u'\uea74', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'cn.ticktick.task:id/w3', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 29, 'enabled': 'true', 'bounds': '[435,918][464,947]', 'w': 29, 'y': 918, 'x': 435}
+[2023-08-03 21:09:08] [INFO] =============================================================================
+[2023-08-03 21:09:08] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("General")')  ; action:     el3.click()
+
+[2023-08-03 21:09:08] [INFO] candidate here is:{'idIndex': 5, 'text': 'General', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '17', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 17, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[63,629][125,654]', 'w': 62, 'y': 629, 'x': 63}
+[2023-08-03 21:09:16] [INFO] =============================================================================
+[2023-08-03 21:09:16] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Template")')  ; action:     el4.click()
+
+[2023-08-03 21:09:16] [INFO] candidate here is:{'idIndex': 0, 'text': 'Language', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 25, 'enabled': 'true', 'bounds': '[18,108][98,133]', 'w': 80, 'y': 108, 'x': 18}
+[2023-08-03 21:09:22] [INFO] ==========test case 0 is tried===========
+[2023-08-03 21:09:22] [INFO] isRepaired: isRepaired

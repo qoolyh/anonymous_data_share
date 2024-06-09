@@ -1,0 +1,4 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_elements_by_id('hko.MyObservatory_v1_0:id/weather_icon_1')[0]++++++++++self.driver.find_element_by_accessibility_id("More options")
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("9-Day Forecast")')++++++++++self.driver.find_element_by_id("hko.MyObservatory_v1_0:id/title")

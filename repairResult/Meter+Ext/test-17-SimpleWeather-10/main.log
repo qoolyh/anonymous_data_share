@@ -1,0 +1,6 @@
+[2023-05-16 18:12:59] [INFO] =============================================================================
+[2023-05-16 18:12:59] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Search'); action:     el1.click()
+; widget: {'y': 31.0, 'x': 432.0, 'w': 54, 'h': 54}
+[2023-05-16 18:12:59] [INFO] candidateThisTime: {'y': 872, 'x': 454, 'type': 'non-text', 'w': 71, 'h': 73}
+[2023-05-16 18:13:08] [INFO] ==========test case 0 is tried===========
+[2023-05-16 18:13:08] [INFO] isRepaired: isRepaired

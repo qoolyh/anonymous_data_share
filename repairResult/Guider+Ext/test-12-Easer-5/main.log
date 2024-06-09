@@ -1,0 +1,22 @@
+[2023-10-15 06:53:08] [INFO] =============================================================================
+[2023-10-15 06:53:08] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open navigation drawer'); action:     el1.click()
+
+[2023-10-15 06:53:08] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open navigation drawer', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-10-15 06:53:16] [INFO] =============================================================================
+[2023-10-15 06:53:16] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Profile")'); action:     el2.click()
+
+[2023-10-15 06:53:16] [INFO] candidate here is:{'idIndex': 1, 'text': 'Profile', 'clickable': 'false', 'checkable': 'true', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'ryey.easer:id/design_menu_item_text', 'password': 'false', 'class': 'android.widget.CheckedTextView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 54, 'enabled': 'true', 'bounds': '[18,243][297,297]', 'w': 279, 'y': 243, 'x': 18}
+[2023-10-15 06:53:24] [INFO] =============================================================================
+[2023-10-15 06:53:24] [INFO] test handle:    el3 = driver.find_elements_by_id('ryey.easer:id/fab')[0]; action:     el3.click()
+
+[2023-10-15 06:53:24] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'ryey.easer:id/fab', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 63, 'enabled': 'true', 'bounds': '[441,861][504,924]', 'w': 63, 'y': 861, 'x': 441}
+[2023-10-15 06:53:32] [INFO] =============================================================================
+[2023-10-15 06:53:32] [INFO] test handle:    el5 = driver.find_elements_by_id('ryey.easer:id/button_add_operation')[0]; action:     el5.click()
+
+[2023-10-15 06:53:32] [INFO] candidate here is:{'NAF': 'true', 'idIndex': 0, 'text': '', 'resource-id': 'ryey.easer:id/button_add_operation', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'clickable': 'true', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 56, 'enabled': 'true', 'bounds': '[18,141][522,197]', 'w': 504, 'y': 141, 'x': 18}
+[2023-10-15 06:53:49] [INFO] =============================================================================
+[2023-10-15 06:53:49] [INFO] test handle:    el6 = driver.find_element_by_android_uiautomator('new UiSelector().text("Send SMS")'); action:     el6.click()
+
+[2023-10-15 06:53:49] [INFO] candidate here is:{'idIndex': 13, 'text': 'Send SMS', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '14', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 14, 'resource-id': 'ryey.easer:id/tv_operation_name', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'ryey.easer', 'h': 51, 'enabled': 'true', 'bounds': '[40,758][499,809]', 'w': 459, 'y': 758, 'x': 40}
+[2023-10-15 06:53:56] [INFO] ==========test case 0 is tried===========
+[2023-10-15 06:53:56] [INFO] isRepaired: isRepaired

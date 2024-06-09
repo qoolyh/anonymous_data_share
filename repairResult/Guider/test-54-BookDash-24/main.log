@@ -1,0 +1,6 @@
+[2024-06-04 04:59:37] [INFO] =============================================================================
+[2024-06-04 04:59:37] [INFO] test handle:    el1 = driver.find_elements_by_id('org.bookdash.android:id/action_language_choice')[0]; action:     el1.click()
+
+[2024-06-04 04:59:37] [INFO] candidate here is:{'idIndex': 0, 'text': 'English', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'org.bookdash.android:id/text_current_language', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.bookdash.android', 'h': 27, 'enabled': 'true', 'bounds': '[441,95][530,122]', 'w': 89, 'y': 95, 'x': 441}
+[2024-06-04 04:59:44] [INFO] ==========test case 0 is tried===========
+[2024-06-04 04:59:44] [INFO] isRepaired: isRepaired

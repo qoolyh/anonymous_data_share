@@ -1,0 +1,20 @@
+[2023-05-15 19:01:09] [INFO] =============================================================================
+[2023-05-15 19:01:09] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")'); action:     el1.click()
+
+[2023-05-15 19:01:09] [INFO] candidate here is:{'idIndex': 0, 'text': 'Phone (0)', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'true', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.github.yeriomin.dumbphoneassistant', 'h': 63, 'enabled': 'true', 'bounds': '[96,90][173,153]', 'w': 77, 'y': 90, 'x': 96}
+[2023-05-15 19:01:20] [INFO] =============================================================================
+[2023-05-15 19:01:20] [INFO] test handle:    el2 = driver.find_element_by_id('com.github.yeriomin.dumbphoneassistant:id/button_delete'); action:     el2.click()
+
+[2023-05-15 19:01:20] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': 'Copy contact to SIM', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.github.yeriomin.dumbphoneassistant:id/button_to_sim', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.github.yeriomin.dumbphoneassistant', 'h': 72, 'enabled': 'true', 'bounds': '[468,153][540,225]', 'w': 72, 'y': 153, 'x': 468}
+[2023-05-15 19:01:27] [INFO] ==========test case 0 is tried===========
+[2023-05-15 19:01:27] [INFO] isRepaired: isRepaired
+[2023-06-06 06:56:50] [INFO] =============================================================================
+[2023-06-06 06:56:50] [INFO] test handle:    el1 = driver.find_element_by_android_uiautomator('new UiSelector().text("Sim Card")'); action:     el1.click()
+
+[2023-06-06 06:56:50] [INFO] candidate here is:{'idIndex': 0, 'text': 'Phone (0)', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'true', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'android:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.github.yeriomin.dumbphoneassistant', 'h': 63, 'enabled': 'true', 'bounds': '[96,90][173,153]', 'w': 77, 'y': 90, 'x': 96}
+[2023-06-06 06:57:00] [INFO] =============================================================================
+[2023-06-06 06:57:00] [INFO] test handle:    el2 = driver.find_element_by_id('com.github.yeriomin.dumbphoneassistant:id/button_delete'); action:     el2.click()
+
+[2023-06-06 06:57:00] [INFO] candidate here is:{'idIndex': 0, 'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': 'Copy contact to SIM', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.github.yeriomin.dumbphoneassistant:id/button_to_sim', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.github.yeriomin.dumbphoneassistant', 'h': 72, 'enabled': 'true', 'bounds': '[468,153][540,225]', 'w': 72, 'y': 153, 'x': 468}
+[2023-06-06 06:57:07] [INFO] ==========test case 0 is tried===========
+[2023-06-06 06:57:07] [INFO] isRepaired: isRepaired

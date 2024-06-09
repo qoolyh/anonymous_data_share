@@ -1,0 +1,4 @@
+================line: 19; test action1=====================
+----------    el1 = driver.find_element_by_id('android:id/home')++++++++++self.driver.find_element_by_accessibility_id("Open navigation")
+================line: 23; test action3=====================
+----------    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Add counter")')++++++++++self.driver.find_elements_by_classname("android.widget.TextView")[2]

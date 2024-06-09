@@ -1,0 +1,14 @@
+[2023-10-16 06:10:46] [INFO] =============================================================================
+[2023-10-16 06:10:46] [INFO] test handle:    el1 = driver.find_elements_by_class_name("android.widget.TextView")[7]  ; action:     el1.click()
+
+[2023-10-16 06:10:46] [INFO] candidate here is:{'idIndex': 2, 'text': u'\uea74', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '7', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 7, 'resource-id': 'cn.ticktick.task:id/w3', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 29, 'enabled': 'true', 'bounds': '[435,918][464,947]', 'w': 29, 'y': 918, 'x': 435}
+[2023-10-16 06:10:52] [INFO] =============================================================================
+[2023-10-16 06:10:52] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("123")'); action:     el2.click()
+
+[2023-10-16 06:10:52] [INFO] candidate here is:{'idIndex': 1, 'text': '123', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'cn.ticktick.task:id/au6', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 28, 'enabled': 'true', 'bounds': '[119,104][152,132]', 'w': 33, 'y': 104, 'x': 119}
+[2023-10-16 06:10:59] [INFO] =============================================================================
+[2023-10-16 06:10:59] [INFO] test handle:    el3 = driver.find_element_by_android_uiautomator('new UiSelector().text("My Achievement Score")'); action:     el3.click()
+
+[2023-10-16 06:10:59] [INFO] candidate here is:{'textIndex': 0, 'text': 'My Achievement Score', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '20', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 20, 'resource-id': '', 'password': 'false', 'class': 'android.view.View', 'scrollable': 'false', 'package': 'cn.ticktick.task', 'h': 23, 'enabled': 'true', 'bounds': '[36,477][198,500]', 'w': 162, 'y': 477, 'x': 36}
+[2023-10-16 06:11:09] [INFO] ==========test case 0 is tried===========
+[2023-10-16 06:11:09] [INFO] isRepaired: isRepaired

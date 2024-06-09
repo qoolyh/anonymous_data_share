@@ -1,0 +1,6 @@
+[2023-06-07 07:26:36] [INFO] =============================================================================
+[2023-06-07 07:26:36] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open the main menu'); action:     el1.click()
+
+[2023-06-07 07:26:36] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open the main menu', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.clover.daysmatter', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-06-07 07:26:44] [INFO] oldWidget:{'y': 225.0, 'x': 18.0, 'w': 23, 'h': 22}
+[2023-06-07 07:26:44] [INFO] oldWidget:{'y': 225.0, 'x': 18.0, 'w': 23, 'h': 22}

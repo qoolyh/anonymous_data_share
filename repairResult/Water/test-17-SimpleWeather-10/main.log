@@ -1,0 +1,12 @@
+[2023-05-16 18:16:55] [INFO] =============================================================================
+[2023-05-16 18:16:55] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Search'); action:     el1.click()
+
+[2023-05-16 18:16:55] [INFO] candidate here is:{'idIndex': 0, 'text': 'DASHA, CN', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.a5corp.weather:id/city_field', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.a5corp.weather', 'h': 73, 'enabled': 'true', 'bounds': '[133,108][406,181]', 'w': 273, 'y': 108, 'x': 133}
+[2023-05-16 18:17:04] [INFO] ==========test case 0 is tried===========
+[2023-05-16 18:17:04] [INFO] isRepaired: isRepaired
+[2023-06-06 20:49:56] [INFO] =============================================================================
+[2023-06-06 20:49:56] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Search'); action:     el1.click()
+
+[2023-06-06 20:49:56] [INFO] candidate here is:{'idIndex': 0, 'text': 'BEIJING, CN', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '0', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': 'com.a5corp.weather:id/city_field', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'com.a5corp.weather', 'h': 73, 'enabled': 'true', 'bounds': '[120,108][419,181]', 'w': 299, 'y': 108, 'x': 120}
+[2023-06-06 20:50:05] [INFO] ==========test case 0 is tried===========
+[2023-06-06 20:50:05] [INFO] isRepaired: isRepaired

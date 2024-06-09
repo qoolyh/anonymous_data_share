@@ -1,0 +1,10 @@
+[2023-08-04 05:51:24] [INFO] =============================================================================
+[2023-08-04 05:51:24] [INFO] test handle:    el1 = driver.find_element_by_id('android:id/home'); action:     el1.click()
+
+[2023-08-04 05:51:24] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open navigation', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'me.tsukanov.counter', 'h': 63, 'enabled': 'true', 'bounds': '[0,27][63,90]', 'w': 63, 'y': 27, 'x': 0}
+[2023-08-04 05:51:32] [INFO] =============================================================================
+[2023-08-04 05:51:32] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Add counter")'); action:     el2.click()
+
+[2023-08-04 05:51:32] [INFO] candidate here is:{'textIndex': 0, 'text': 'Add counter', 'clickable': 'false', 'checkable': 'false', 'index': '1', 'checked': 'false', 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': '', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'me.tsukanov.counter', 'h': 34, 'enabled': 'true', 'bounds': '[38,101][259,135]', 'w': 221, 'y': 101, 'x': 38}
+[2023-08-04 05:51:38] [INFO] ==========test case 0 is tried===========
+[2023-08-04 05:51:38] [INFO] isRepaired: isRepaired

@@ -1,0 +1,24 @@
+[2023-05-17 05:07:31] [INFO] =============================================================================
+[2023-05-17 05:07:31] [INFO] test handle:    el1 = driver.find_elements_by_id('hko.MyObservatory_v1_0:id/weather_icon_1')[0]; action:     el1.click()
+; widget: {'y': 850.0, 'x': 30.0, 'w': 76, 'h': 76}
+[2023-05-17 05:07:31] [INFO] candidateThisTime: {'y': 894, 'x': 21, 'type': 'non-text', 'w': 66, 'h': 65}
+[2023-05-17 05:07:40] [INFO] ==========test case 0 is tried===========
+[2023-05-17 05:07:40] [INFO] isRepaired: have chance to repair
+[2023-05-17 05:13:50] [INFO] =============================================================================
+[2023-05-17 05:13:50] [INFO] test handle:    el1 = driver.find_elements_by_id('hko.MyObservatory_v1_0:id/weather_icon_1')[0]; action:     el1.click()
+; widget: {'y': 850.0, 'x': 30.0, 'w': 76, 'h': 76}
+[2023-05-17 05:13:50] [INFO] candidateThisTime: {'y': 894, 'x': 21, 'type': 'non-text', 'w': 66, 'h': 65}
+[2023-05-17 05:13:58] [INFO] ==========test case 0 is tried===========
+[2023-05-17 05:13:58] [INFO] isRepaired: have chance to repair
+[2023-05-17 05:26:04] [INFO] =============================================================================
+[2023-05-17 05:26:04] [INFO] test handle:    el1 = driver.find_elements_by_id('hko.MyObservatory_v1_0:id/weather_icon_1')[0]; action:     el1.click()
+; widget: {'y': 850.0, 'x': 30.0, 'w': 76, 'h': 76}
+[2023-05-17 05:26:04] [INFO] candidateThisTime: {'y': 894, 'x': 21, 'type': 'non-text', 'w': 66, 'h': 65}
+[2023-05-17 05:26:16] [INFO] ==========test case 0 is tried===========
+[2023-05-17 05:26:17] [INFO] isRepaired: have chance to repair
+[2023-05-17 18:05:19] [INFO] =============================================================================
+[2023-05-17 18:05:19] [INFO] test handle:    el1 = driver.find_elements_by_id('hko.MyObservatory_v1_0:id/weather_icon_1')[0]; action:     el1.click()
+; widget: {'y': 850.0, 'x': 30.0, 'w': 76, 'h': 76}
+[2023-05-17 18:05:19] [INFO] candidateThisTime: {'y': 894, 'x': 21, 'type': 'non-text', 'w': 66, 'h': 65}
+[2023-05-17 18:05:29] [INFO] ==========test case 0 is tried===========
+[2023-05-17 18:05:29] [INFO] isRepaired: have chance to repair

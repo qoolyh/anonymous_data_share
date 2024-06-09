@@ -1,0 +1,36 @@
+[2023-05-15 06:03:09] [INFO] =============================================================================
+[2023-05-15 06:03:09] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-05-15 06:03:09] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-05-15 06:03:17] [INFO] =============================================================================
+[2023-05-15 06:03:17] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("New Config")'); action:     el2.click()
+
+[2023-05-15 06:03:17] [INFO] candidate here is:{'idIndex': 1, 'text': 'New config', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'org.cipherdyne.fwknop2:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 25, 'enabled': 'true', 'bounds': '[333,99][518,124]', 'w': 185, 'y': 99, 'x': 333}
+[2023-05-15 06:03:25] [INFO] =============================================================================
+[2023-05-15 06:03:25] [INFO] test handle:    el3 = driver.find_element_by_accessibility_id('More options'); action:     el3.click()
+
+[2023-05-15 06:03:25] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-05-15 06:03:32] [INFO] =============================================================================
+[2023-05-15 06:03:32] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Save config")'); action:     el4.click()
+
+[2023-05-15 06:03:32] [INFO] candidate here is:{'idIndex': 1, 'text': 'Save config', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'org.cipherdyne.fwknop2:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 25, 'enabled': 'true', 'bounds': '[333,99][518,124]', 'w': 185, 'y': 99, 'x': 333}
+[2023-05-15 06:03:38] [INFO] ==========test case 0 is tried===========
+[2023-05-15 06:03:38] [INFO] isRepaired: isRepaired
+[2023-06-06 19:03:08] [INFO] =============================================================================
+[2023-06-06 19:03:08] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('More options'); action:     el1.click()
+
+[2023-06-06 19:03:08] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-06-06 19:03:20] [INFO] =============================================================================
+[2023-06-06 19:03:20] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("New Config")'); action:     el2.click()
+
+[2023-06-06 19:03:20] [INFO] candidate here is:{'idIndex': 1, 'text': 'New config', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'org.cipherdyne.fwknop2:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 25, 'enabled': 'true', 'bounds': '[333,99][518,124]', 'w': 185, 'y': 99, 'x': 333}
+[2023-06-06 19:03:32] [INFO] =============================================================================
+[2023-06-06 19:03:32] [INFO] test handle:    el3 = driver.find_element_by_accessibility_id('More options'); action:     el3.click()
+
+[2023-06-06 19:03:32] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'More options', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 54, 'enabled': 'true', 'bounds': '[495,31][540,85]', 'w': 45, 'y': 31, 'x': 495}
+[2023-06-06 19:03:42] [INFO] =============================================================================
+[2023-06-06 19:03:42] [INFO] test handle:    el4 = driver.find_element_by_android_uiautomator('new UiSelector().text("Save config")'); action:     el4.click()
+
+[2023-06-06 19:03:42] [INFO] candidate here is:{'idIndex': 1, 'text': 'Save config', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '1', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 1, 'resource-id': 'org.cipherdyne.fwknop2:id/title', 'password': 'false', 'class': 'android.widget.TextView', 'scrollable': 'false', 'package': 'org.cipherdyne.fwknop2', 'h': 25, 'enabled': 'true', 'bounds': '[333,99][518,124]', 'w': 185, 'y': 99, 'x': 333}
+[2023-06-06 19:03:52] [INFO] ==========test case 0 is tried===========
+[2023-06-06 19:03:52] [INFO] isRepaired: isRepaired

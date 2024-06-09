@@ -1,0 +1,28 @@
+[2024-06-04 05:26:42] [INFO] =============================================================================
+[2024-06-04 05:26:42] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open Navigator'); action:     el1.click()
+
+[2024-06-04 05:26:42] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open Navigator', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 63, 'enabled': 'true', 'bounds': '[0,31][63,94]', 'w': 63, 'y': 31, 'x': 0}
+[2024-06-04 05:26:50] [INFO] =============================================================================
+[2024-06-04 05:26:50] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Export")'); action:     el2.click()
+
+[2024-06-04 05:26:50] [INFO] candidate here is:{'idIndex': 5, 'text': 'Export', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.faltenreich.diaguard:id/design_menu_item_text', 'password': 'false', 'class': 'android.widget.CheckedTextView', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 44, 'enabled': 'true', 'bounds': '[32,402][373,446]', 'w': 341, 'y': 402, 'x': 32}
+[2024-06-04 05:26:58] [INFO] =============================================================================
+[2024-06-04 05:26:58] [INFO] test handle:    el3 = driver.find_elements_by_id('com.faltenreich.diaguard:id/date_end_button')[0]; action:     el3.click()
+
+[2024-06-04 05:26:58] [INFO] candidate here is:{'idIndex': 0, 'text': 'Page number', 'clickable': 'true', 'checkable': 'true', 'index': '23', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.faltenreich.diaguard:id/include_page_number_checkbox', 'password': 'false', 'class': 'android.widget.CheckBox', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 61, 'enabled': 'true', 'bounds': '[72,448][540,509]', 'w': 468, 'y': 448, 'x': 72}
+[2024-06-04 05:27:03] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:27:03] [INFO] isRepaired: have chance to repair
+[2024-06-04 05:30:24] [INFO] =============================================================================
+[2024-06-04 05:30:24] [INFO] test handle:    el1 = driver.find_element_by_accessibility_id('Open Navigator'); action:     el1.click()
+
+[2024-06-04 05:30:24] [INFO] candidate here is:{'text': '', 'clickable': 'true', 'checkable': 'false', 'index': '0', 'checked': 'false', 'selected': 'false', 'content-desc': 'Open Navigator', 'instance': '0', 'content-descIndex': 0, 'parent': None, 'focusable': 'true', 'long-clickable': 'true', 'focused': 'false', 'classIndex': 0, 'resource-id': '', 'password': 'false', 'class': 'android.widget.ImageButton', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 63, 'enabled': 'true', 'bounds': '[0,31][63,94]', 'w': 63, 'y': 31, 'x': 0}
+[2024-06-04 05:30:32] [INFO] =============================================================================
+[2024-06-04 05:30:32] [INFO] test handle:    el2 = driver.find_element_by_android_uiautomator('new UiSelector().text("Export")'); action:     el2.click()
+
+[2024-06-04 05:30:32] [INFO] candidate here is:{'idIndex': 5, 'text': 'Export', 'clickable': 'false', 'checkable': 'false', 'index': '0', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '5', 'parent': None, 'focusable': 'false', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 5, 'resource-id': 'com.faltenreich.diaguard:id/design_menu_item_text', 'password': 'false', 'class': 'android.widget.CheckedTextView', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 44, 'enabled': 'true', 'bounds': '[32,402][373,446]', 'w': 341, 'y': 402, 'x': 32}
+[2024-06-04 05:30:41] [INFO] =============================================================================
+[2024-06-04 05:30:41] [INFO] test handle:    el3 = driver.find_elements_by_id('com.faltenreich.diaguard:id/date_end_button')[0]; action:     el3.click()
+
+[2024-06-04 05:30:41] [INFO] candidate here is:{'idIndex': 0, 'text': 'Page number', 'clickable': 'true', 'checkable': 'true', 'index': '23', 'checked': 'false', 'textIndex': 0, 'selected': 'false', 'content-desc': '', 'instance': '2', 'parent': None, 'focusable': 'true', 'long-clickable': 'false', 'focused': 'false', 'classIndex': 2, 'resource-id': 'com.faltenreich.diaguard:id/include_page_number_checkbox', 'password': 'false', 'class': 'android.widget.CheckBox', 'scrollable': 'false', 'package': 'com.faltenreich.diaguard', 'h': 61, 'enabled': 'true', 'bounds': '[72,448][540,509]', 'w': 468, 'y': 448, 'x': 72}
+[2024-06-04 05:30:45] [INFO] ==========test case 0 is tried===========
+[2024-06-04 05:30:45] [INFO] isRepaired: have chance to repair
