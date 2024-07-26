@@ -2,13 +2,13 @@
 
 # Supplementary Files for Review:
 
-## *1.running example of equation 3*
+## *1. Running Example of Equation 3*
 
-**equation 3 :**
+**Equation 3 :**
 
 ![equation3](equation3.PNG)
 
-**running example:**
+**Running Example:**
 
 ![example](example.PNG)
 
@@ -30,7 +30,7 @@ The mapping result will also incorrect if $w$ increases to be 2. Since $p(s_2s_3
 
 However, when $w$ is 3, the list $t_2t_3t_4$ performs better than $t'_2t'_3$ as $p(s_2s_3s_4|t'_2t'_3\phi) = 0.025$ but  $p(s_2s_3s_4|t_2t_3t_4) = 0.1$.
 
-## *2.references*
+## *2. References*
 
 **[ASE’18]** Moran, Kevin, Cody Watson, John Hoskins, George Purnell, and Denys Poshyvanyk. "Detecting and summarizing GUI changes in evolving mobile apps." In Proceedings of the 33rd ACM/IEEE international conference on automated software engineering, pp. 543-553. 2018.
 
@@ -42,39 +42,39 @@ However, when $w$ is 3, the list $t_2t_3t_4$ performs better than $t'_2t'_3$ as 
 
 # The contents of each directory:
 
-## *apk*
+## *1. apk*
 
 All the apks we used in the experiment.
 
-## *apkTestScript*
+## *2. apkTestScript*
 
 All the test scripts we used in the experiment.
 
-## *groundTruth*
+## *3. groundTruth*
 
 Ground truth for all obsolete test scripts.
 
-## *repairResult*
+## *4. repairResult*
 
 Test repair results of all methods in the experiment.
 
-## *sourceCode*
+## *5. sourceCode*
 
 Source code for the ExtRep method.
 
 # How to run the code of ExtRep method:
 
-## *environment*
+## *1. Environment*
 
 python(3.8+) + Appium(1.7.2+) + adb + MuMu Simulator(Android 6+)
 
-## *python package*
+## *2. Python Package*
 
 gensim: 3.8.3
 scipy: 1.9.3
 opencv-python: 4.6.0.66
 graphviz: 0.20.1
 
-## *demo*
+## *3. Demo*
 
 Run main.py and we provide you with a demo.
