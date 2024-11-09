@@ -3,11 +3,11 @@
 
 ## *1. apk*
 
-All the apks we used in the experiment.
+All the apks used in the experiment.
 
 ## *2. apkTestScript*
 
-All the test scripts we used in the experiment.
+All the test scripts used in the experiment.
 
 ## *3. groundTruth*
 
